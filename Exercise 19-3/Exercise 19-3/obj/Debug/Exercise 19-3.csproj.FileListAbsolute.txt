@@ -1,0 +1,24 @@
+C:\Users\Brian\Documents\Visual Studio 2008\Projects\Chapter 19\Exercise 19-3\Exercise 19-3\bin\Debug\Exercise 19-3.exe
+C:\Users\Brian\Documents\Visual Studio 2008\Projects\Chapter 19\Exercise 19-3\Exercise 19-3\bin\Debug\Exercise 19-3.pdb
+C:\Users\Brian\Documents\Visual Studio 2008\Projects\Chapter 19\Exercise 19-3\Exercise 19-3\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Brian\Documents\Visual Studio 2008\Projects\Chapter 19\Exercise 19-3\Exercise 19-3\obj\Debug\Window1.baml
+C:\Users\Brian\Documents\Visual Studio 2008\Projects\Chapter 19\Exercise 19-3\Exercise 19-3\obj\Debug\Window1.g.cs
+C:\Users\Brian\Documents\Visual Studio 2008\Projects\Chapter 19\Exercise 19-3\Exercise 19-3\obj\Debug\App.g.cs
+C:\Users\Brian\Documents\Visual Studio 2008\Projects\Chapter 19\Exercise 19-3\Exercise 19-3\obj\Debug\Exercise 19-3_MarkupCompile.cache
+C:\Users\Brian\Documents\Visual Studio 2008\Projects\Chapter 19\Exercise 19-3\Exercise 19-3\obj\Debug\Exercise 19-3.g.resources
+C:\Users\Brian\Documents\Visual Studio 2008\Projects\Chapter 19\Exercise 19-3\Exercise 19-3\obj\Debug\Exercise_19_3.Properties.Resources.resources
+C:\Users\Brian\Documents\Visual Studio 2008\Projects\Chapter 19\Exercise 19-3\Exercise 19-3\obj\Debug\Exercise 19-3.csproj.GenerateResource.Cache
+C:\Users\Brian\Documents\Visual Studio 2008\Projects\Chapter 19\Exercise 19-3\Exercise 19-3\obj\Debug\Exercise 19-3.exe
+C:\Users\Brian\Documents\Visual Studio 2008\Projects\Chapter 19\Exercise 19-3\Exercise 19-3\obj\Debug\Exercise 19-3.pdb
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 19\Exercise 19-3\Exercise 19-3\obj\Debug\Exercise 19-3.exe
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 19\Exercise 19-3\Exercise 19-3\obj\Debug\Exercise 19-3.pdb
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 19\Exercise 19-3\Exercise 19-3\bin\Debug\Exercise 19-3.exe
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 19\Exercise 19-3\Exercise 19-3\bin\Debug\Exercise 19-3.pdb
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 19\Exercise 19-3\Exercise 19-3\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 19\Exercise 19-3\Exercise 19-3\obj\Debug\Window1.baml
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 19\Exercise 19-3\Exercise 19-3\obj\Debug\Window1.g.cs
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 19\Exercise 19-3\Exercise 19-3\obj\Debug\App.g.cs
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 19\Exercise 19-3\Exercise 19-3\obj\Debug\Exercise 19-3_MarkupCompile.cache
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 19\Exercise 19-3\Exercise 19-3\obj\Debug\Exercise 19-3.g.resources
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 19\Exercise 19-3\Exercise 19-3\obj\Debug\Exercise_19_3.Properties.Resources.resources
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 19\Exercise 19-3\Exercise 19-3\obj\Debug\Exercise 19-3.csproj.GenerateResource.Cache

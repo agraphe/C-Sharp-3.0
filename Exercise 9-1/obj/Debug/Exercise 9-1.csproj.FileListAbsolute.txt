@@ -1,0 +1,9 @@
+C:\Users\Brian\AppData\Local\Temporary Projects\Exercise 9-1\bin\Debug\Exercise 9-1.exe
+C:\Users\Brian\AppData\Local\Temporary Projects\Exercise 9-1\bin\Debug\Exercise 9-1.pdb
+C:\Users\Brian\AppData\Local\Temporary Projects\Exercise 9-1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Brian\AppData\Local\Temporary Projects\Exercise 9-1\obj\Debug\Exercise 9-1.exe
+C:\Users\Brian\AppData\Local\Temporary Projects\Exercise 9-1\obj\Debug\Exercise 9-1.pdb
+C:\Users\Brian\Documents\Visual Studio 2008\Projects\Chapter 9\Exercise 9-1\obj\Debug\Exercise 9-1.exe
+C:\Users\Brian\Documents\Visual Studio 2008\Projects\Chapter 9\Exercise 9-1\obj\Debug\Exercise 9-1.pdb
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 9\Exercise 9-1\obj\Debug\Exercise 9-1.exe
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 9\Exercise 9-1\obj\Debug\Exercise 9-1.pdb

@@ -1,0 +1,7 @@
+C:\Users\Brian\Documents\Visual Studio 2008\Projects\Chapter 1\HelloWorld\HelloWorld\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Brian\Documents\Visual Studio 2008\Projects\Chapter 1\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+C:\Users\Brian\Documents\Visual Studio 2008\Projects\Chapter 1\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\Users\Brian\Documents\Visual Studio 2008\Projects\Chapter 1\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+C:\Users\Brian\Documents\Visual Studio 2008\Projects\Chapter 1\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 1\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 1\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb

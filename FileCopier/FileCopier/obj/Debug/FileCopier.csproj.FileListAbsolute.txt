@@ -1,0 +1,16 @@
+C:\Users\Brian\Documents\Visual Studio 2008\Projects\Chapter 18\FileCopier\FileCopier\bin\Debug\FileCopier.exe
+C:\Users\Brian\Documents\Visual Studio 2008\Projects\Chapter 18\FileCopier\FileCopier\bin\Debug\FileCopier.pdb
+C:\Users\Brian\Documents\Visual Studio 2008\Projects\Chapter 18\FileCopier\FileCopier\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Brian\Documents\Visual Studio 2008\Projects\Chapter 18\FileCopier\FileCopier\obj\Debug\FileCopier.Properties.Resources.resources
+C:\Users\Brian\Documents\Visual Studio 2008\Projects\Chapter 18\FileCopier\FileCopier\obj\Debug\FileCopier.csproj.GenerateResource.Cache
+C:\Users\Brian\Documents\Visual Studio 2008\Projects\Chapter 18\FileCopier\FileCopier\obj\Debug\FileCopier.exe
+C:\Users\Brian\Documents\Visual Studio 2008\Projects\Chapter 18\FileCopier\FileCopier\obj\Debug\FileCopier.pdb
+C:\Users\Brian\Documents\Visual Studio 2008\Projects\Chapter 18\FileCopier\FileCopier\obj\Debug\FileCopier.frmFileCopier.resources
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 18\FileCopier\FileCopier\obj\Debug\FileCopier.exe
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 18\FileCopier\FileCopier\obj\Debug\FileCopier.pdb
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 18\FileCopier\FileCopier\bin\Debug\FileCopier.exe
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 18\FileCopier\FileCopier\bin\Debug\FileCopier.pdb
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 18\FileCopier\FileCopier\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 18\FileCopier\FileCopier\obj\Debug\FileCopier.FrmFileCopier.resources
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 18\FileCopier\FileCopier\obj\Debug\FileCopier.Properties.Resources.resources
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 18\FileCopier\FileCopier\obj\Debug\FileCopier.csproj.GenerateResource.Cache

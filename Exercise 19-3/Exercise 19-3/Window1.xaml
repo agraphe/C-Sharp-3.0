@@ -1,0 +1,36 @@
+﻿<Window x:Class="Exercise_19_3.Window1"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    Title="Window1" Height="311" Width="295">
+    <Window.Triggers>
+        <EventTrigger RoutedEvent="ButtonBase.Click" SourceName="btnClockwise">
+            <BeginStoryboard  Name="rotateClockwise">
+                <Storyboard>
+                    <DoubleAnimation Storyboard.TargetName="rectRotate" Storyboard.TargetProperty="Angle" From="0.0" To="360.0" Duration="0:0:10" RepeatBehavior="Forever"/>
+                </Storyboard>
+            </BeginStoryboard>
+        </EventTrigger>
+        <EventTrigger RoutedEvent="ButtonBase.Click" SourceName="btnCounterclockwise">
+            <BeginStoryboard  Name="rotateCounterclockwise">
+                <Storyboard>
+                    <DoubleAnimation Storyboard.TargetName="rectRotate" Storyboard.TargetProperty="Angle" From="360.0" To="0.0" Duration="0:0:10" RepeatBehavior="Forever"/>
+                </Storyboard>
+            </BeginStoryboard>
+        </EventTrigger>
+        <EventTrigger RoutedEvent="ButtonBase.Click" SourceName="btnStop">
+            <PauseStoryboard BeginStoryboardName="rotateClockwise" />
+            <PauseStoryboard BeginStoryboardName="rotateCounterclockwise" />
+        </EventTrigger>
+    </Window.Triggers>
+
+    <Grid>
+        <Rectangle Margin="110,21,113,0" Name="myRectangle" Stroke="Black" Height="100" VerticalAlignment="Top" RenderTransformOrigin="0.5,0.5" Fill="Cyan">
+            <Rectangle.RenderTransform>
+                <RotateTransform x:Name="rectRotate" Angle="0.0" />
+            </Rectangle.RenderTransform>
+        </Rectangle>
+        <Button Height="23" HorizontalAlignment="Left" Margin="20,0,0,106" Name="btnClockwise" VerticalAlignment="Bottom" Width="75">Clockwise</Button>
+        <Button Height="23" HorizontalAlignment="Right" Margin="0,0,26,106" Name="btnCounterclockwise" VerticalAlignment="Bottom" Width="109">Counterclockwise</Button>
+        <Button Height="23" Margin="100,0,103,58" Name="btnStop" VerticalAlignment="Bottom">Stop</Button>
+    </Grid>
+</Window>

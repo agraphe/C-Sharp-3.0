@@ -1,0 +1,11 @@
+C:\Users\Brian\AppData\Local\Temporary Projects\Example 17-3 -- The event keyword\bin\Release\Example 17-3 -- The event keyword.exe
+C:\Users\Brian\AppData\Local\Temporary Projects\Example 17-3 -- The event keyword\bin\Release\Example 17-3 -- The event keyword.pdb
+C:\Users\Brian\AppData\Local\Temporary Projects\Example 17-3 -- The event keyword\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Brian\AppData\Local\Temporary Projects\Example 17-3 -- The event keyword\obj\Release\Example 17-3 -- The event keyword.exe
+C:\Users\Brian\AppData\Local\Temporary Projects\Example 17-3 -- The event keyword\obj\Release\Example 17-3 -- The event keyword.pdb
+C:\Users\Brian\Documents\Visual Studio 2008\Projects\Chapter 17\Example 17-3 -- The event keyword\Example 17-3 -- The event keyword\obj\Release\Example 17-3 -- The event keyword.exe
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 17\Example 17-3 -- The event keyword\Example 17-3 -- The event keyword\obj\Release\Example 17-3 -- The event keyword.exe
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 17\Example 17-3 -- The event keyword\Example 17-3 -- The event keyword\bin\Release\Example 17-3 -- The event keyword.exe
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 17\Example 17-3 -- The event keyword\Example 17-3 -- The event keyword\bin\Release\Example 17-3 -- The event keyword.pdb
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 17\Example 17-3 -- The event keyword\Example 17-3 -- The event keyword\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 17\Example 17-3 -- The event keyword\Example 17-3 -- The event keyword\obj\Release\Example 17-3 -- The event keyword.pdb

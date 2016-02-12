@@ -1,0 +1,7 @@
+C:\Users\Brian\Documents\Visual Studio 2008\Projects\Chapter 16\Example 16-7 -- Custom Exception\Example 16-7 -- Custom Exception\bin\Release\Example 16-7 -- Custom Exception.exe
+C:\Users\Brian\Documents\Visual Studio 2008\Projects\Chapter 16\Example 16-7 -- Custom Exception\Example 16-7 -- Custom Exception\bin\Release\Example 16-7 -- Custom Exception.pdb
+C:\Users\Brian\Documents\Visual Studio 2008\Projects\Chapter 16\Example 16-7 -- Custom Exception\Example 16-7 -- Custom Exception\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Brian\Documents\Visual Studio 2008\Projects\Chapter 16\Example 16-7 -- Custom Exception\Example 16-7 -- Custom Exception\obj\Release\Example 16-7 -- Custom Exception.exe
+C:\Users\Brian\Documents\Visual Studio 2008\Projects\Chapter 16\Example 16-7 -- Custom Exception\Example 16-7 -- Custom Exception\obj\Release\Example 16-7 -- Custom Exception.pdb
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 16\Example 16-7 -- Custom Exception\Example 16-7 -- Custom Exception\obj\Release\Example 16-7 -- Custom Exception.exe
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 16\Example 16-7 -- Custom Exception\Example 16-7 -- Custom Exception\obj\Release\Example 16-7 -- Custom Exception.pdb

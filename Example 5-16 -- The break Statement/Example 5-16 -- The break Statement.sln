@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C# Express 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example 5-16 -- The break Statement", "Example 5-16 -- The break Statement\Example 5-16 -- The break Statement.csproj", "{704D44D5-998B-4285-9352-853A303F2DF1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{704D44D5-998B-4285-9352-853A303F2DF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{704D44D5-998B-4285-9352-853A303F2DF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{704D44D5-998B-4285-9352-853A303F2DF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{704D44D5-998B-4285-9352-853A303F2DF1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

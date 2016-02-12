@@ -1,0 +1,24 @@
+C:\Users\Brian\AppData\Local\Temporary Projects\Exercise 18-3\bin\Debug\Exercise 18-3.exe
+C:\Users\Brian\AppData\Local\Temporary Projects\Exercise 18-3\bin\Debug\Exercise 18-3.pdb
+C:\Users\Brian\AppData\Local\Temporary Projects\Exercise 18-3\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Brian\AppData\Local\Temporary Projects\Exercise 18-3\obj\Debug\Exercise_18_3.Form1.resources
+C:\Users\Brian\AppData\Local\Temporary Projects\Exercise 18-3\obj\Debug\Exercise_18_3.Properties.Resources.resources
+C:\Users\Brian\AppData\Local\Temporary Projects\Exercise 18-3\obj\Debug\Exercise 18-3.csproj.GenerateResource.Cache
+C:\Users\Brian\AppData\Local\Temporary Projects\Exercise 18-3\obj\Debug\Exercise 18-3.exe
+C:\Users\Brian\AppData\Local\Temporary Projects\Exercise 18-3\obj\Debug\Exercise 18-3.pdb
+C:\Users\Brian\Documents\Visual Studio 2008\Projects\Chapter 18\Exercise 18-3\Exercise 18-3\obj\Debug\Exercise 18-3.exe
+C:\Users\Brian\Documents\Visual Studio 2008\Projects\Chapter 18\Exercise 18-3\Exercise 18-3\obj\Debug\Exercise 18-3.pdb
+C:\Users\Brian\Documents\Visual Studio 2008\Projects\Chapter 18\Exercise 18-3\Exercise 18-3\bin\Debug\Exercise 18-3.exe
+C:\Users\Brian\Documents\Visual Studio 2008\Projects\Chapter 18\Exercise 18-3\Exercise 18-3\bin\Debug\Exercise 18-3.pdb
+C:\Users\Brian\Documents\Visual Studio 2008\Projects\Chapter 18\Exercise 18-3\Exercise 18-3\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Brian\Documents\Visual Studio 2008\Projects\Chapter 18\Exercise 18-3\Exercise 18-3\obj\Debug\Exercise_18_3.Form1.resources
+C:\Users\Brian\Documents\Visual Studio 2008\Projects\Chapter 18\Exercise 18-3\Exercise 18-3\obj\Debug\Exercise_18_3.Properties.Resources.resources
+C:\Users\Brian\Documents\Visual Studio 2008\Projects\Chapter 18\Exercise 18-3\Exercise 18-3\obj\Debug\Exercise 18-3.csproj.GenerateResource.Cache
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 18\Exercise 18-3\Exercise 18-3\obj\Debug\Exercise 18-3.exe
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 18\Exercise 18-3\Exercise 18-3\obj\Debug\Exercise 18-3.pdb
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 18\Exercise 18-3\Exercise 18-3\bin\Debug\Exercise 18-3.exe
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 18\Exercise 18-3\Exercise 18-3\bin\Debug\Exercise 18-3.pdb
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 18\Exercise 18-3\Exercise 18-3\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 18\Exercise 18-3\Exercise 18-3\obj\Debug\Exercise_18_3.Form1.resources
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 18\Exercise 18-3\Exercise 18-3\obj\Debug\Exercise_18_3.Properties.Resources.resources
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 18\Exercise 18-3\Exercise 18-3\obj\Debug\Exercise 18-3.csproj.GenerateResource.Cache

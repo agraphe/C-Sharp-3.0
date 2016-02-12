@@ -1,0 +1,15 @@
+C:\Users\Brian\AppData\Local\Temporary Projects\Example 11-3 -- Abstract Methods\bin\Release\Example 11-3 -- Abstract Methods.exe
+C:\Users\Brian\AppData\Local\Temporary Projects\Example 11-3 -- Abstract Methods\bin\Release\Example 11-3 -- Abstract Methods.pdb
+C:\Users\Brian\AppData\Local\Temporary Projects\Example 11-3 -- Abstract Methods\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Brian\AppData\Local\Temporary Projects\Example 11-3 -- Abstract Methods\obj\Release\Example 11-3 -- Abstract Methods.exe
+C:\Users\Brian\AppData\Local\Temporary Projects\Example 11-3 -- Abstract Methods\obj\Release\Example 11-3 -- Abstract Methods.pdb
+C:\Users\Brian\Documents\Visual Studio 2008\Projects\Chapter 11\Example 11-3 -- Abstract Methods\Example 11-3 -- Abstract Methods\obj\Release\Example 11-3 -- Abstract Methods.exe
+C:\Users\Brian\Documents\Visual Studio 2008\Projects\Chapter 11\Example 11-3 -- Abstract Methods\Example 11-3 -- Abstract Methods\obj\Release\Example 11-3 -- Abstract Methods.pdb
+C:\Users\Brian\Documents\Visual Studio 2008\Projects\Chapter 11\Example 11-3 -- Abstract Methods\Example 11-3 -- Abstract Methods\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Brian\Documents\Visual Studio 2008\Projects\Chapter 11\Example 11-3 -- Abstract Methods\Example 11-3 -- Abstract Methods\bin\Release\Example 11-3 -- Abstract Methods.exe
+C:\Users\Brian\Documents\Visual Studio 2008\Projects\Chapter 11\Example 11-3 -- Abstract Methods\Example 11-3 -- Abstract Methods\bin\Release\Example 11-3 -- Abstract Methods.pdb
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 11\Example 11-3 -- Abstract Methods\Example 11-3 -- Abstract Methods\obj\Release\Example 11-3 -- Abstract Methods.exe
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 11\Example 11-3 -- Abstract Methods\Example 11-3 -- Abstract Methods\obj\Release\Example 11-3 -- Abstract Methods.pdb
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 11\Example 11-3 -- Abstract Methods\Example 11-3 -- Abstract Methods\bin\Release\Example 11-3 -- Abstract Methods.exe
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 11\Example 11-3 -- Abstract Methods\Example 11-3 -- Abstract Methods\bin\Release\Example 11-3 -- Abstract Methods.pdb
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 11\Example 11-3 -- Abstract Methods\Example 11-3 -- Abstract Methods\obj\Release\ResolveAssemblyReference.cache

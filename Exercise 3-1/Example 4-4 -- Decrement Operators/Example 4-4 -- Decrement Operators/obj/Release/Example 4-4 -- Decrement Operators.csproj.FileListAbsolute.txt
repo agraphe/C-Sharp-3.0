@@ -1,0 +1,7 @@
+C:\Documents and Settings\Brian\Local Settings\Application Data\Temporary Projects\Example 4-4 -- Decrement Operators\bin\Release\Example 4-4 -- Decrement Operators.exe
+C:\Documents and Settings\Brian\Local Settings\Application Data\Temporary Projects\Example 4-4 -- Decrement Operators\bin\Release\Example 4-4 -- Decrement Operators.pdb
+C:\Documents and Settings\Brian\Local Settings\Application Data\Temporary Projects\Example 4-4 -- Decrement Operators\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Brian\Local Settings\Application Data\Temporary Projects\Example 4-4 -- Decrement Operators\obj\Release\Example 4-4 -- Decrement Operators.exe
+C:\Documents and Settings\Brian\Local Settings\Application Data\Temporary Projects\Example 4-4 -- Decrement Operators\obj\Release\Example 4-4 -- Decrement Operators.pdb
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 4\Example 4-4 -- Decrement Operators\Example 4-4 -- Decrement Operators\obj\Release\Example 4-4 -- Decrement Operators.exe
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 4\Example 4-4 -- Decrement Operators\Example 4-4 -- Decrement Operators\obj\Release\Example 4-4 -- Decrement Operators.pdb

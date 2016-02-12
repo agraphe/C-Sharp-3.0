@@ -1,0 +1,5 @@
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 7\Example 7-7 -- Value and Reference Types\Example 7-7 -- Value and Reference Types\bin\Release\Example 7-7 -- Value and Reference Types.exe
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 7\Example 7-7 -- Value and Reference Types\Example 7-7 -- Value and Reference Types\bin\Release\Example 7-7 -- Value and Reference Types.pdb
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 7\Example 7-7 -- Value and Reference Types\Example 7-7 -- Value and Reference Types\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 7\Example 7-7 -- Value and Reference Types\Example 7-7 -- Value and Reference Types\obj\Release\Example 7-7 -- Value and Reference Types.exe
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 7\Example 7-7 -- Value and Reference Types\Example 7-7 -- Value and Reference Types\obj\Release\Example 7-7 -- Value and Reference Types.pdb

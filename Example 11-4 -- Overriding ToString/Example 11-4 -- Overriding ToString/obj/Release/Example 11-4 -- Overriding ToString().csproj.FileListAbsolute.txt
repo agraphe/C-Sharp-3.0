@@ -1,0 +1,5 @@
+C:\Users\Brian\AppData\Local\Temporary Projects\Example 11-4 -- Overriding ToString()\bin\Release\Example 11-4 -- Overriding ToString().exe
+C:\Users\Brian\AppData\Local\Temporary Projects\Example 11-4 -- Overriding ToString()\bin\Release\Example 11-4 -- Overriding ToString().pdb
+C:\Users\Brian\AppData\Local\Temporary Projects\Example 11-4 -- Overriding ToString()\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Brian\AppData\Local\Temporary Projects\Example 11-4 -- Overriding ToString()\obj\Release\Example 11-4 -- Overriding ToString().exe
+C:\Users\Brian\AppData\Local\Temporary Projects\Example 11-4 -- Overriding ToString()\obj\Release\Example 11-4 -- Overriding ToString().pdb

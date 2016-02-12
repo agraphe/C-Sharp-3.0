@@ -1,0 +1,8 @@
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 18\Exercise 18-1\Exercise 18-1\bin\Release\Exercise 18-1.exe
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 18\Exercise 18-1\Exercise 18-1\bin\Release\Exercise 18-1.pdb
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 18\Exercise 18-1\Exercise 18-1\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 18\Exercise 18-1\Exercise 18-1\obj\Release\Exercise_18_1.frmHelloGoodbye.resources
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 18\Exercise 18-1\Exercise 18-1\obj\Release\Exercise_18_1.Properties.Resources.resources
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 18\Exercise 18-1\Exercise 18-1\obj\Release\Exercise 18-1.csproj.GenerateResource.Cache
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 18\Exercise 18-1\Exercise 18-1\obj\Release\Exercise 18-1.exe
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 18\Exercise 18-1\Exercise 18-1\obj\Release\Exercise 18-1.pdb

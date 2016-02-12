@@ -1,0 +1,25 @@
+﻿<Window x:Class="Example_19_4____Animations.Window1"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    Title="Window1" Height="300" Width="300">
+    <Grid>
+        <Rectangle Name="myRectangle" Width="100" Height="100">
+            <Rectangle.Fill>
+                <SolidColorBrush x:Name="rectangleBrush" Color="Blue" />
+            </Rectangle.Fill>
+            <Rectangle.Triggers>
+                <EventTrigger RoutedEvent="Rectangle.Loaded">
+                    <BeginStoryboard>
+                        <Storyboard>
+                            <ColorAnimation 
+                                Storyboard.TargetName="rectangleBrush"
+                                Storyboard.TargetProperty="Color"
+                                From="Blue" To="Red" Duration="0:0:10"
+                                AutoReverse="True" RepeatBehavior="Forever" />
+                        </Storyboard>
+                    </BeginStoryboard>
+                </EventTrigger>
+            </Rectangle.Triggers>
+        </Rectangle>
+    </Grid>
+</Window>

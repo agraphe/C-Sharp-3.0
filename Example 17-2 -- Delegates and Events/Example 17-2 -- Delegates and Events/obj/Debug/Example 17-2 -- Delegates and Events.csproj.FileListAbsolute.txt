@@ -1,0 +1,5 @@
+C:\Users\Brian\Documents\Visual Studio 2008\Projects\Chapter 17\Example 17-2 -- Delegates and Events\Example 17-2 -- Delegates and Events\bin\Debug\Example 17-2 -- Delegates and Events.exe
+C:\Users\Brian\Documents\Visual Studio 2008\Projects\Chapter 17\Example 17-2 -- Delegates and Events\Example 17-2 -- Delegates and Events\bin\Debug\Example 17-2 -- Delegates and Events.pdb
+C:\Users\Brian\Documents\Visual Studio 2008\Projects\Chapter 17\Example 17-2 -- Delegates and Events\Example 17-2 -- Delegates and Events\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Brian\Documents\Visual Studio 2008\Projects\Chapter 17\Example 17-2 -- Delegates and Events\Example 17-2 -- Delegates and Events\obj\Debug\Example 17-2 -- Delegates and Events.exe
+C:\Users\Brian\Documents\Visual Studio 2008\Projects\Chapter 17\Example 17-2 -- Delegates and Events\Example 17-2 -- Delegates and Events\obj\Debug\Example 17-2 -- Delegates and Events.pdb

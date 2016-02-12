@@ -1,0 +1,15 @@
+C:\Users\Brian\AppData\Local\Temporary Projects\Example 7-3 -- Constructor\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Brian\AppData\Local\Temporary Projects\Example 7-3 -- Constructor\bin\Release\Example 7-3 -- Constructor.exe
+C:\Users\Brian\AppData\Local\Temporary Projects\Example 7-3 -- Constructor\bin\Release\Example 7-3 -- Constructor.pdb
+C:\Users\Brian\AppData\Local\Temporary Projects\Example 7-3 -- Constructor\obj\Release\Example 7-3 -- Constructor.exe
+C:\Users\Brian\AppData\Local\Temporary Projects\Example 7-3 -- Constructor\obj\Release\Example 7-3 -- Constructor.pdb
+C:\Users\Brian\Documents\Visual Studio 2008\Projects\Chapter 7\Example 7-3 -- Constructor\Example 7-3 -- Constructor\obj\Release\Example 7-3 -- Constructor.exe
+C:\Users\Brian\Documents\Visual Studio 2008\Projects\Chapter 7\Example 7-3 -- Constructor\Example 7-3 -- Constructor\obj\Release\Example 7-3 -- Constructor.pdb
+C:\Users\Brian\Documents\Visual Studio 2008\Projects\Chapter 7\Example 7-3 -- Constructor\Example 7-3 -- Constructor\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Brian\Documents\Visual Studio 2008\Projects\Chapter 7\Example 7-3 -- Constructor\Example 7-3 -- Constructor\bin\Release\Example 7-3 -- Constructor.exe
+C:\Users\Brian\Documents\Visual Studio 2008\Projects\Chapter 7\Example 7-3 -- Constructor\Example 7-3 -- Constructor\bin\Release\Example 7-3 -- Constructor.pdb
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 7\Example 7-3 -- Constructor\Example 7-3 -- Constructor\obj\Release\Example 7-3 -- Constructor.exe
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 7\Example 7-3 -- Constructor\Example 7-3 -- Constructor\obj\Release\Example 7-3 -- Constructor.pdb
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 7\Example 7-3 -- Constructor\Example 7-3 -- Constructor\bin\Release\Example 7-3 -- Constructor.exe
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 7\Example 7-3 -- Constructor\Example 7-3 -- Constructor\bin\Release\Example 7-3 -- Constructor.pdb
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 7\Example 7-3 -- Constructor\Example 7-3 -- Constructor\obj\Release\ResolveAssemblyReference.cache

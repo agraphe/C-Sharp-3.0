@@ -1,0 +1,9 @@
+﻿<Window x:Class="Example_19_2____Properties_in_WPF.Window1"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    Title="Window1" Height="300" Width="300">
+    <Grid Background="IndianRed">
+        <Label Height="28" Margin="77,28,81,0" Name="lblHello" VerticalAlignment="Top" Opacity="0.5" Background="SlateGray" Foreground="White">Label</Label>
+        <Button Height="23" Margin="77,66,126,0" Name="btnHello" VerticalAlignment="Top" Click="btnHello_Click" Opacity="0.5">Say Hello</Button>
+    </Grid>
+</Window>

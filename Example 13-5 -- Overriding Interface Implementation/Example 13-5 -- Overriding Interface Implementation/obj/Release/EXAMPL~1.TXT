@@ -1,0 +1,10 @@
+C:\Users\Brian\AppData\Local\Temporary Projects\Example 13-5 -- Overriding Interface Implementation\bin\Release\Example 13-5 -- Overriding Interface Implementation.exe
+C:\Users\Brian\AppData\Local\Temporary Projects\Example 13-5 -- Overriding Interface Implementation\bin\Release\Example 13-5 -- Overriding Interface Implementation.pdb
+C:\Users\Brian\AppData\Local\Temporary Projects\Example 13-5 -- Overriding Interface Implementation\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Brian\AppData\Local\Temporary Projects\Example 13-5 -- Overriding Interface Implementation\obj\Release\Example 13-5 -- Overriding Interface Implementation.exe
+C:\Users\Brian\AppData\Local\Temporary Projects\Example 13-5 -- Overriding Interface Implementation\obj\Release\Example 13-5 -- Overriding Interface Implementation.pdb
+C:\Users\Brian\Documents\Visual Studio 2008\Projects\Chapter 13\Example 13-5 -- Overriding Interface Implementation\Example 13-5 -- Overriding Interface Implementation\obj\Release\Example 13-5 -- Overriding Interface Implementation.exe
+C:\Users\Brian\Documents\Visual Studio 2008\Projects\Chapter 13\Example 13-5 -- Overriding Interface Implementation\Example 13-5 -- Overriding Interface Implementation\obj\Release\Example 13-5 -- Overriding Interface Implementation.pdb
+C:\Users\Brian\Documents\Visual Studio 2008\Projects\Chapter 13\Example 13-5 -- Overriding Interface Implementation\Example 13-5 -- Overriding Interface Implementation\bin\Release\Example 13-5 -- Overriding Interface Implementation.exe
+C:\Users\Brian\Documents\Visual Studio 2008\Projects\Chapter 13\Example 13-5 -- Overriding Interface Implementation\Example 13-5 -- Overriding Interface Implementation\bin\Release\Example 13-5 -- Overriding Interface Implementation.pdb
+C:\Users\Brian\Documents\Visual Studio 2008\Projects\Chapter 13\Example 13-5 -- Overriding Interface Implementation\Example 13-5 -- Overriding Interface Implementation\obj\Release\ResolveAssemblyReference.cache

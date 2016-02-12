@@ -1,0 +1,10 @@
+C:\Users\Brian\AppData\Local\Temporary Projects\Example 21-3 -- Lambda Expressions\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Brian\AppData\Local\Temporary Projects\Example 21-3 -- Lambda Expressions\bin\Debug\Example 21-3 -- Lambda Expressions.exe
+C:\Users\Brian\AppData\Local\Temporary Projects\Example 21-3 -- Lambda Expressions\bin\Debug\Example 21-3 -- Lambda Expressions.pdb
+C:\Users\Brian\AppData\Local\Temporary Projects\Example 21-3 -- Lambda Expressions\obj\Debug\Example 21-3 -- Lambda Expressions.exe
+C:\Users\Brian\AppData\Local\Temporary Projects\Example 21-3 -- Lambda Expressions\obj\Debug\Example 21-3 -- Lambda Expressions.pdb
+C:\Users\Brian\Documents\Visual Studio 2008\Projects\Chapter 21\Example 21-3 -- Lambda Expressions\Example 21-3 -- Lambda Expressions\obj\Debug\Example 21-3 -- Lambda Expressions.exe
+C:\Users\Brian\Documents\Visual Studio 2008\Projects\Chapter 21\Example 21-3 -- Lambda Expressions\Example 21-3 -- Lambda Expressions\obj\Debug\Example 21-3 -- Lambda Expressions.pdb
+C:\Users\Brian\Documents\Visual Studio 2008\Projects\Chapter 21\Example 21-3 -- Lambda Expressions\Example 21-3 -- Lambda Expressions\bin\Debug\Example 21-3 -- Lambda Expressions.exe
+C:\Users\Brian\Documents\Visual Studio 2008\Projects\Chapter 21\Example 21-3 -- Lambda Expressions\Example 21-3 -- Lambda Expressions\bin\Debug\Example 21-3 -- Lambda Expressions.pdb
+C:\Users\Brian\Documents\Visual Studio 2008\Projects\Chapter 21\Example 21-3 -- Lambda Expressions\Example 21-3 -- Lambda Expressions\obj\Debug\ResolveAssemblyReference.cache

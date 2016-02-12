@@ -1,0 +1,5 @@
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 11\Example 11-4 -- Overriding ToString\Example 11-4 -- Overriding ToString\bin\Release\Example 11-4 -- Overriding ToString.exe
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 11\Example 11-4 -- Overriding ToString\Example 11-4 -- Overriding ToString\bin\Release\Example 11-4 -- Overriding ToString.pdb
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 11\Example 11-4 -- Overriding ToString\Example 11-4 -- Overriding ToString\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 11\Example 11-4 -- Overriding ToString\Example 11-4 -- Overriding ToString\obj\Release\Example 11-4 -- Overriding ToString.exe
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 11\Example 11-4 -- Overriding ToString\Example 11-4 -- Overriding ToString\obj\Release\Example 11-4 -- Overriding ToString.pdb

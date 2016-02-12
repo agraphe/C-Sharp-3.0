@@ -1,0 +1,7 @@
+C:\Users\Brian\Documents\Visual Studio 2008\Projects\Chapter 21\Example 21-3 -- Lambda Expressions\Example 21-3 -- Lambda Expressions\bin\Release\Example 21-3 -- Lambda Expressions.exe
+C:\Users\Brian\Documents\Visual Studio 2008\Projects\Chapter 21\Example 21-3 -- Lambda Expressions\Example 21-3 -- Lambda Expressions\bin\Release\Example 21-3 -- Lambda Expressions.pdb
+C:\Users\Brian\Documents\Visual Studio 2008\Projects\Chapter 21\Example 21-3 -- Lambda Expressions\Example 21-3 -- Lambda Expressions\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Brian\Documents\Visual Studio 2008\Projects\Chapter 21\Example 21-3 -- Lambda Expressions\Example 21-3 -- Lambda Expressions\obj\Release\Example 21-3 -- Lambda Expressions.exe
+C:\Users\Brian\Documents\Visual Studio 2008\Projects\Chapter 21\Example 21-3 -- Lambda Expressions\Example 21-3 -- Lambda Expressions\obj\Release\Example 21-3 -- Lambda Expressions.pdb
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 21\Example 21-3 -- Lambda Expressions\Example 21-3 -- Lambda Expressions\obj\Release\Example 21-3 -- Lambda Expressions.exe
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 21\Example 21-3 -- Lambda Expressions\Example 21-3 -- Lambda Expressions\obj\Release\Example 21-3 -- Lambda Expressions.pdb

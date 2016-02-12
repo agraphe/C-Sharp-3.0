@@ -1,0 +1,5 @@
+C:\Users\Brian\AppData\Local\Temporary Projects\Example 5-1 -- Branching to a Method\bin\Debug\Example 5-1 -- Branching to a Method.exe
+C:\Users\Brian\AppData\Local\Temporary Projects\Example 5-1 -- Branching to a Method\bin\Debug\Example 5-1 -- Branching to a Method.pdb
+C:\Users\Brian\AppData\Local\Temporary Projects\Example 5-1 -- Branching to a Method\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Brian\AppData\Local\Temporary Projects\Example 5-1 -- Branching to a Method\obj\Debug\Example 5-1 -- Branching to a Method.exe
+C:\Users\Brian\AppData\Local\Temporary Projects\Example 5-1 -- Branching to a Method\obj\Debug\Example 5-1 -- Branching to a Method.pdb

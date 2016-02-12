@@ -1,0 +1,12 @@
+C:\Users\Brian\AppData\Local\Temporary Projects\Example 14-3 -- Enumerable Class\bin\Release\Example 14-3 -- Enumerable Class.exe
+C:\Users\Brian\AppData\Local\Temporary Projects\Example 14-3 -- Enumerable Class\bin\Release\Example 14-3 -- Enumerable Class.pdb
+C:\Users\Brian\AppData\Local\Temporary Projects\Example 14-3 -- Enumerable Class\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Brian\AppData\Local\Temporary Projects\Example 14-3 -- Enumerable Class\obj\Release\Example 14-3 -- Enumerable Class.exe
+C:\Users\Brian\AppData\Local\Temporary Projects\Example 14-3 -- Enumerable Class\obj\Release\Example 14-3 -- Enumerable Class.pdb
+C:\Users\Brian\Documents\Visual Studio 2008\Projects\Chapter 14\Example 14-3 -- Enumerable Class\Example 14-3 -- Enumerable Class\obj\Release\Example 14-3 -- Enumerable Class.exe
+C:\Users\Brian\Documents\Visual Studio 2008\Projects\Chapter 14\Example 14-3 -- Enumerable Class\Example 14-3 -- Enumerable Class\obj\Release\Example 14-3 -- Enumerable Class.pdb
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 14\Example 14-3 -- Enumerable Class\Example 14-3 -- Enumerable Class\obj\Release\Example 14-3 -- Enumerable Class.exe
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 14\Example 14-3 -- Enumerable Class\Example 14-3 -- Enumerable Class\obj\Release\Example 14-3 -- Enumerable Class.pdb
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 14\Example 14-3 -- Enumerable Class\Example 14-3 -- Enumerable Class\bin\Release\Example 14-3 -- Enumerable Class.exe
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 14\Example 14-3 -- Enumerable Class\Example 14-3 -- Enumerable Class\bin\Release\Example 14-3 -- Enumerable Class.pdb
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 14\Example 14-3 -- Enumerable Class\Example 14-3 -- Enumerable Class\obj\Release\ResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+C:\Users\Brian\Documents\Visual Studio 2008\Projects\Chapter 8\Exercise 8-2\bin\Debug\Exercise 8-2.exe
+C:\Users\Brian\Documents\Visual Studio 2008\Projects\Chapter 8\Exercise 8-2\bin\Debug\Exercise 8-2.pdb
+C:\Users\Brian\Documents\Visual Studio 2008\Projects\Chapter 8\Exercise 8-2\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Brian\Documents\Visual Studio 2008\Projects\Chapter 8\Exercise 8-2\obj\Debug\Exercise 8-2.exe
+C:\Users\Brian\Documents\Visual Studio 2008\Projects\Chapter 8\Exercise 8-2\obj\Debug\Exercise 8-2.pdb

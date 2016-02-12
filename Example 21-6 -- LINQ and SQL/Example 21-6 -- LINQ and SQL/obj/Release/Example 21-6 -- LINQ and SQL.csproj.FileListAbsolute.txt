@@ -1,0 +1,10 @@
+C:\Users\Brian\AppData\Local\Temporary Projects\Example 21-6 -- LINQ and SQL\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Brian\AppData\Local\Temporary Projects\Example 21-6 -- LINQ and SQL\bin\Release\Example 21-6 -- LINQ and SQL.exe
+C:\Users\Brian\AppData\Local\Temporary Projects\Example 21-6 -- LINQ and SQL\bin\Release\Example 21-6 -- LINQ and SQL.pdb
+C:\Users\Brian\AppData\Local\Temporary Projects\Example 21-6 -- LINQ and SQL\obj\Release\Example 21-6 -- LINQ and SQL.exe
+C:\Users\Brian\AppData\Local\Temporary Projects\Example 21-6 -- LINQ and SQL\obj\Release\Example 21-6 -- LINQ and SQL.pdb
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 21\Example 21-6 -- LINQ and SQL\Example 21-6 -- LINQ and SQL\obj\Release\Example 21-6 -- LINQ and SQL.exe
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 21\Example 21-6 -- LINQ and SQL\Example 21-6 -- LINQ and SQL\obj\Release\Example 21-6 -- LINQ and SQL.pdb
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 21\Example 21-6 -- LINQ and SQL\Example 21-6 -- LINQ and SQL\bin\Release\Example 21-6 -- LINQ and SQL.exe
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 21\Example 21-6 -- LINQ and SQL\Example 21-6 -- LINQ and SQL\bin\Release\Example 21-6 -- LINQ and SQL.pdb
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 21\Example 21-6 -- LINQ and SQL\Example 21-6 -- LINQ and SQL\obj\Release\ResolveAssemblyReference.cache

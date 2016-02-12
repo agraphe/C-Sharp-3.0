@@ -1,0 +1,15 @@
+C:\Users\Brian\AppData\Local\Temporary Projects\Example 17-2 -- Delegates and Events\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Brian\AppData\Local\Temporary Projects\Example 17-2 -- Delegates and Events\bin\Release\Example 17-2 -- Delegates and Events.exe
+C:\Users\Brian\AppData\Local\Temporary Projects\Example 17-2 -- Delegates and Events\bin\Release\Example 17-2 -- Delegates and Events.pdb
+C:\Users\Brian\AppData\Local\Temporary Projects\Example 17-2 -- Delegates and Events\obj\Release\Example 17-2 -- Delegates and Events.exe
+C:\Users\Brian\AppData\Local\Temporary Projects\Example 17-2 -- Delegates and Events\obj\Release\Example 17-2 -- Delegates and Events.pdb
+C:\Users\Brian\Documents\Visual Studio 2008\Projects\Chapter 17\Example 17-2 -- Delegates and Events\Example 17-2 -- Delegates and Events\obj\Release\Example 17-2 -- Delegates and Events.exe
+C:\Users\Brian\Documents\Visual Studio 2008\Projects\Chapter 17\Example 17-2 -- Delegates and Events\Example 17-2 -- Delegates and Events\obj\Release\Example 17-2 -- Delegates and Events.pdb
+C:\Users\Brian\Documents\Visual Studio 2008\Projects\Chapter 17\Example 17-2 -- Delegates and Events\Example 17-2 -- Delegates and Events\bin\Release\Example 17-2 -- Delegates and Events.exe
+C:\Users\Brian\Documents\Visual Studio 2008\Projects\Chapter 17\Example 17-2 -- Delegates and Events\Example 17-2 -- Delegates and Events\bin\Release\Example 17-2 -- Delegates and Events.pdb
+C:\Users\Brian\Documents\Visual Studio 2008\Projects\Chapter 17\Example 17-2 -- Delegates and Events\Example 17-2 -- Delegates and Events\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 17\Example 17-2 -- Delegates and Events\Example 17-2 -- Delegates and Events\obj\Release\Example 17-2 -- Delegates and Events.exe
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 17\Example 17-2 -- Delegates and Events\Example 17-2 -- Delegates and Events\obj\Release\Example 17-2 -- Delegates and Events.pdb
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 17\Example 17-2 -- Delegates and Events\Example 17-2 -- Delegates and Events\bin\Release\Example 17-2 -- Delegates and Events.exe
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 17\Example 17-2 -- Delegates and Events\Example 17-2 -- Delegates and Events\bin\Release\Example 17-2 -- Delegates and Events.pdb
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 17\Example 17-2 -- Delegates and Events\Example 17-2 -- Delegates and Events\obj\Release\ResolveAssemblyReference.cache

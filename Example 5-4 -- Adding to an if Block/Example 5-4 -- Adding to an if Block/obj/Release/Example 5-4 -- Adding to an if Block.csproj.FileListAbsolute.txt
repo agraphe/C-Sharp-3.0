@@ -1,0 +1,12 @@
+C:\Users\Brian\AppData\Local\Temporary Projects\Example 5-4 -- Adding to an if Block\bin\Release\Example 5-4 -- Adding to an if Block.exe
+C:\Users\Brian\AppData\Local\Temporary Projects\Example 5-4 -- Adding to an if Block\bin\Release\Example 5-4 -- Adding to an if Block.pdb
+C:\Users\Brian\AppData\Local\Temporary Projects\Example 5-4 -- Adding to an if Block\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Brian\AppData\Local\Temporary Projects\Example 5-4 -- Adding to an if Block\obj\Release\Example 5-4 -- Adding to an if Block.exe
+C:\Users\Brian\AppData\Local\Temporary Projects\Example 5-4 -- Adding to an if Block\obj\Release\Example 5-4 -- Adding to an if Block.pdb
+C:\Users\Brian\Documents\Visual Studio 2008\Projects\Example 5-4 -- Adding to an if Block\Example 5-4 -- Adding to an if Block\obj\Release\Example 5-4 -- Adding to an if Block.exe
+C:\Users\Brian\Documents\Visual Studio 2008\Projects\Example 5-4 -- Adding to an if Block\Example 5-4 -- Adding to an if Block\obj\Release\Example 5-4 -- Adding to an if Block.pdb
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 5\Example 5-4 -- Adding to an if Block\Example 5-4 -- Adding to an if Block\obj\Release\Example 5-4 -- Adding to an if Block.exe
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 5\Example 5-4 -- Adding to an if Block\Example 5-4 -- Adding to an if Block\obj\Release\Example 5-4 -- Adding to an if Block.pdb
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 5\Example 5-4 -- Adding to an if Block\Example 5-4 -- Adding to an if Block\bin\Release\Example 5-4 -- Adding to an if Block.exe
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 5\Example 5-4 -- Adding to an if Block\Example 5-4 -- Adding to an if Block\bin\Release\Example 5-4 -- Adding to an if Block.pdb
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 5\Example 5-4 -- Adding to an if Block\Example 5-4 -- Adding to an if Block\obj\Release\ResolveAssemblyReference.cache

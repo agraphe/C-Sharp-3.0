@@ -1,0 +1,5 @@
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 7\Example 7-1 -- The Box Class\Example 7-1 -- The Box Class\bin\Release\Example 7-1 -- The Box Class.exe
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 7\Example 7-1 -- The Box Class\Example 7-1 -- The Box Class\bin\Release\Example 7-1 -- The Box Class.pdb
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 7\Example 7-1 -- The Box Class\Example 7-1 -- The Box Class\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 7\Example 7-1 -- The Box Class\Example 7-1 -- The Box Class\obj\Release\Example 7-1 -- The Box Class.exe
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 7\Example 7-1 -- The Box Class\Example 7-1 -- The Box Class\obj\Release\Example 7-1 -- The Box Class.pdb

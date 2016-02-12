@@ -1,0 +1,14 @@
+C:\Users\Brian\AppData\Local\Temporary Projects\Example 4-3 -- Prefix and Postfix\bin\Release\Example 4-3 -- Prefix and Postfix.exe
+C:\Users\Brian\AppData\Local\Temporary Projects\Example 4-3 -- Prefix and Postfix\bin\Release\Example 4-3 -- Prefix and Postfix.pdb
+C:\Users\Brian\AppData\Local\Temporary Projects\Example 4-3 -- Prefix and Postfix\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Brian\AppData\Local\Temporary Projects\Example 4-3 -- Prefix and Postfix\obj\Release\Example 4-3 -- Prefix and Postfix.exe
+C:\Users\Brian\AppData\Local\Temporary Projects\Example 4-3 -- Prefix and Postfix\obj\Release\Example 4-3 -- Prefix and Postfix.pdb
+C:\Users\Brian\Documents\Visual Studio 2008\Projects\Example 4-3 -- Prefix and Postfix\Example 4-3 -- Prefix and Postfix\obj\Release\Example 4-3 -- Prefix and Postfix.exe
+C:\Users\Brian\Documents\Visual Studio 2008\Projects\Example 4-3 -- Prefix and Postfix\Example 4-3 -- Prefix and Postfix\obj\Release\Example 4-3 -- Prefix and Postfix.pdb
+C:\Users\Brian\Documents\Visual Studio 2008\Projects\Example 4-3 -- Increment with Prefix and Postfix\Example 4-3 -- Prefix and Postfix\obj\Release\Example 4-3 -- Prefix and Postfix.exe
+C:\Users\Brian\Documents\Visual Studio 2008\Projects\Example 4-3 -- Increment with Prefix and Postfix\Example 4-3 -- Prefix and Postfix\obj\Release\Example 4-3 -- Prefix and Postfix.pdb
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 4\Example 4-3 -- Increment with Prefix and Postfix\Example 4-3 -- Prefix and Postfix\obj\Release\Example 4-3 -- Prefix and Postfix.exe
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 4\Example 4-3 -- Increment with Prefix and Postfix\Example 4-3 -- Prefix and Postfix\obj\Release\Example 4-3 -- Prefix and Postfix.pdb
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 4\Example 4-3 -- Increment with Prefix and Postfix\Example 4-3 -- Prefix and Postfix\bin\Release\Example 4-3 -- Prefix and Postfix.exe
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 4\Example 4-3 -- Increment with Prefix and Postfix\Example 4-3 -- Prefix and Postfix\bin\Release\Example 4-3 -- Prefix and Postfix.pdb
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 4\Example 4-3 -- Increment with Prefix and Postfix\Example 4-3 -- Prefix and Postfix\obj\Release\ResolveAssemblyReference.cache

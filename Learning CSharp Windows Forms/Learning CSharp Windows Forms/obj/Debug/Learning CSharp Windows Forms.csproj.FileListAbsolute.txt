@@ -1,0 +1,18 @@
+C:\Users\Brian\AppData\Local\Temporary Projects\Learning CSharp Windows Forms\bin\Debug\Learning CSharp Windows Forms.exe
+C:\Users\Brian\AppData\Local\Temporary Projects\Learning CSharp Windows Forms\bin\Debug\Learning CSharp Windows Forms.pdb
+C:\Users\Brian\AppData\Local\Temporary Projects\Learning CSharp Windows Forms\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Brian\AppData\Local\Temporary Projects\Learning CSharp Windows Forms\obj\Debug\Learning_CSharp_Windows_Forms.Form1.resources
+C:\Users\Brian\AppData\Local\Temporary Projects\Learning CSharp Windows Forms\obj\Debug\Learning_CSharp_Windows_Forms.Properties.Resources.resources
+C:\Users\Brian\AppData\Local\Temporary Projects\Learning CSharp Windows Forms\obj\Debug\Learning CSharp Windows Forms.csproj.GenerateResource.Cache
+C:\Users\Brian\AppData\Local\Temporary Projects\Learning CSharp Windows Forms\obj\Debug\Learning CSharp Windows Forms.exe
+C:\Users\Brian\AppData\Local\Temporary Projects\Learning CSharp Windows Forms\obj\Debug\Learning CSharp Windows Forms.pdb
+C:\Users\Brian\Documents\Visual Studio 2008\Projects\Chapter 18\Learning CSharp Windows Forms\Learning CSharp Windows Forms\obj\Debug\Learning CSharp Windows Forms.exe
+C:\Users\Brian\Documents\Visual Studio 2008\Projects\Chapter 18\Learning CSharp Windows Forms\Learning CSharp Windows Forms\obj\Debug\Learning CSharp Windows Forms.pdb
+C:\Users\Brian\Documents\Visual Studio 2008\Projects\Chapter 18\Learning CSharp Windows Forms\Learning CSharp Windows Forms\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Brian\Documents\Visual Studio 2008\Projects\Chapter 18\Learning CSharp Windows Forms\Learning CSharp Windows Forms\obj\Debug\Learning_CSharp_Windows_Forms.Form1.resources
+C:\Users\Brian\Documents\Visual Studio 2008\Projects\Chapter 18\Learning CSharp Windows Forms\Learning CSharp Windows Forms\obj\Debug\Learning_CSharp_Windows_Forms.Properties.Resources.resources
+C:\Users\Brian\Documents\Visual Studio 2008\Projects\Chapter 18\Learning CSharp Windows Forms\Learning CSharp Windows Forms\obj\Debug\Learning CSharp Windows Forms.csproj.GenerateResource.Cache
+C:\Users\Brian\Documents\Visual Studio 2008\Projects\Chapter 18\Learning CSharp Windows Forms\Learning CSharp Windows Forms\bin\Debug\Learning CSharp Windows Forms.exe
+C:\Users\Brian\Documents\Visual Studio 2008\Projects\Chapter 18\Learning CSharp Windows Forms\Learning CSharp Windows Forms\bin\Debug\Learning CSharp Windows Forms.pdb
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 18\Learning CSharp Windows Forms\Learning CSharp Windows Forms\obj\Debug\Learning CSharp Windows Forms.exe
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 18\Learning CSharp Windows Forms\Learning CSharp Windows Forms\obj\Debug\Learning CSharp Windows Forms.pdb

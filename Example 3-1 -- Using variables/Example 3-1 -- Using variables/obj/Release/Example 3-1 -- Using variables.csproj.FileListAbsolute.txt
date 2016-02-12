@@ -1,0 +1,9 @@
+C:\Users\Brian\AppData\Local\Temporary Projects\Example 3-1 -- Using variables\bin\Release\Example 3-1 -- Using variables.exe
+C:\Users\Brian\AppData\Local\Temporary Projects\Example 3-1 -- Using variables\bin\Release\Example 3-1 -- Using variables.pdb
+C:\Users\Brian\AppData\Local\Temporary Projects\Example 3-1 -- Using variables\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Brian\AppData\Local\Temporary Projects\Example 3-1 -- Using variables\obj\Release\Example 3-1 -- Using variables.exe
+C:\Users\Brian\AppData\Local\Temporary Projects\Example 3-1 -- Using variables\obj\Release\Example 3-1 -- Using variables.pdb
+C:\Users\Brian\Documents\Visual Studio 2008\Projects\Example 3-1 -- Using variables\Example 3-1 -- Using variables\obj\Release\Example 3-1 -- Using variables.exe
+C:\Users\Brian\Documents\Visual Studio 2008\Projects\Example 3-1 -- Using variables\Example 3-1 -- Using variables\obj\Release\Example 3-1 -- Using variables.pdb
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 3\Example 3-1 -- Using variables\Example 3-1 -- Using variables\obj\Release\Example 3-1 -- Using variables.exe
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 3\Example 3-1 -- Using variables\Example 3-1 -- Using variables\obj\Release\Example 3-1 -- Using variables.pdb

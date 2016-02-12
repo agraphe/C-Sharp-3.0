@@ -1,0 +1,12 @@
+C:\Users\Brian\AppData\Local\Temporary Projects\Example 16-5 -- finally Block\bin\Release\Example 16-5 -- finally Block.exe
+C:\Users\Brian\AppData\Local\Temporary Projects\Example 16-5 -- finally Block\bin\Release\Example 16-5 -- finally Block.pdb
+C:\Users\Brian\AppData\Local\Temporary Projects\Example 16-5 -- finally Block\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Brian\AppData\Local\Temporary Projects\Example 16-5 -- finally Block\obj\Release\Example 16-5 -- finally Block.exe
+C:\Users\Brian\AppData\Local\Temporary Projects\Example 16-5 -- finally Block\obj\Release\Example 16-5 -- finally Block.pdb
+C:\Users\Brian\Documents\Visual Studio 2008\Projects\Chapter 16\Example 16-5 -- finally Block\Example 16-5 -- finally Block\obj\Release\Example 16-5 -- finally Block.exe
+C:\Users\Brian\Documents\Visual Studio 2008\Projects\Chapter 16\Example 16-5 -- finally Block\Example 16-5 -- finally Block\obj\Release\Example 16-5 -- finally Block.pdb
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 16\Example 16-5 -- finally Block\Example 16-5 -- finally Block\obj\Release\Example 16-5 -- finally Block.exe
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 16\Example 16-5 -- finally Block\Example 16-5 -- finally Block\obj\Release\Example 16-5 -- finally Block.pdb
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 16\Example 16-5 -- finally Block\Example 16-5 -- finally Block\bin\Release\Example 16-5 -- finally Block.exe
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 16\Example 16-5 -- finally Block\Example 16-5 -- finally Block\bin\Release\Example 16-5 -- finally Block.pdb
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 16\Example 16-5 -- finally Block\Example 16-5 -- finally Block\obj\Release\ResolveAssemblyReference.cache

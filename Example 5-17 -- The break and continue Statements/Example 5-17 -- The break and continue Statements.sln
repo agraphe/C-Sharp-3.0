@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C# Express 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example 5-17 -- break and continue", "Example 5-17 -- The break and continue Statements\Example 5-17 -- break and continue.csproj", "{4700F461-88B6-4E30-9128-2D968B7565A6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4700F461-88B6-4E30-9128-2D968B7565A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4700F461-88B6-4E30-9128-2D968B7565A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4700F461-88B6-4E30-9128-2D968B7565A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4700F461-88B6-4E30-9128-2D968B7565A6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

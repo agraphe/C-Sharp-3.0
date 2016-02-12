@@ -1,0 +1,9 @@
+C:\Users\Brian\AppData\Local\Temporary Projects\Example 20-1 -- ADO.NET\bin\Release\Example 20-1 -- ADO.NET.exe
+C:\Users\Brian\AppData\Local\Temporary Projects\Example 20-1 -- ADO.NET\bin\Release\Example 20-1 -- ADO.NET.pdb
+C:\Users\Brian\AppData\Local\Temporary Projects\Example 20-1 -- ADO.NET\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Brian\AppData\Local\Temporary Projects\Example 20-1 -- ADO.NET\obj\Release\Example 20-1 -- ADO.NET.exe
+C:\Users\Brian\AppData\Local\Temporary Projects\Example 20-1 -- ADO.NET\obj\Release\Example 20-1 -- ADO.NET.pdb
+C:\Users\Brian\Documents\Visual Studio 2008\Projects\Example 20-1 -- ADO.NET\Example 20-1 -- ADO.NET\obj\Release\Example 20-1 -- ADO.NET.exe
+C:\Users\Brian\Documents\Visual Studio 2008\Projects\Example 20-1 -- ADO.NET\Example 20-1 -- ADO.NET\obj\Release\Example 20-1 -- ADO.NET.pdb
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 20\Example 20-1 -- ADO.NET\Example 20-1 -- ADO.NET\obj\Release\Example 20-1 -- ADO.NET.exe
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 20\Example 20-1 -- ADO.NET\Example 20-1 -- ADO.NET\obj\Release\Example 20-1 -- ADO.NET.pdb

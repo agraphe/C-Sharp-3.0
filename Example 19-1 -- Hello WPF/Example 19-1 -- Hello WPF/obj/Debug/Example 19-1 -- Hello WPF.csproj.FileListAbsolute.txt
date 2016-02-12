@@ -1,0 +1,26 @@
+C:\Users\Brian\AppData\Local\Temporary Projects\Example 19-1 -- Hello WPF\bin\Debug\Example 19-1 -- Hello WPF.exe
+C:\Users\Brian\AppData\Local\Temporary Projects\Example 19-1 -- Hello WPF\bin\Debug\Example 19-1 -- Hello WPF.pdb
+C:\Users\Brian\AppData\Local\Temporary Projects\Example 19-1 -- Hello WPF\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Brian\AppData\Local\Temporary Projects\Example 19-1 -- Hello WPF\obj\Debug\Window1.baml
+C:\Users\Brian\AppData\Local\Temporary Projects\Example 19-1 -- Hello WPF\obj\Debug\Window1.g.cs
+C:\Users\Brian\AppData\Local\Temporary Projects\Example 19-1 -- Hello WPF\obj\Debug\App.g.cs
+C:\Users\Brian\AppData\Local\Temporary Projects\Example 19-1 -- Hello WPF\obj\Debug\Example 19-1 -- Hello WPF_MarkupCompile.cache
+C:\Users\Brian\AppData\Local\Temporary Projects\Example 19-1 -- Hello WPF\obj\Debug\Example 19-1 -- Hello WPF.g.resources
+C:\Users\Brian\AppData\Local\Temporary Projects\Example 19-1 -- Hello WPF\obj\Debug\Example_19_1____Hello_WPF.Properties.Resources.resources
+C:\Users\Brian\AppData\Local\Temporary Projects\Example 19-1 -- Hello WPF\obj\Debug\Example 19-1 -- Hello WPF.csproj.GenerateResource.Cache
+C:\Users\Brian\AppData\Local\Temporary Projects\Example 19-1 -- Hello WPF\obj\Debug\Example 19-1 -- Hello WPF.exe
+C:\Users\Brian\AppData\Local\Temporary Projects\Example 19-1 -- Hello WPF\obj\Debug\Example 19-1 -- Hello WPF.pdb
+C:\Users\Brian\Documents\Visual Studio 2008\Projects\Chapter 19\Example 19-1 -- Hello WPF\Example 19-1 -- Hello WPF\obj\Debug\Example 19-1 -- Hello WPF.exe
+C:\Users\Brian\Documents\Visual Studio 2008\Projects\Chapter 19\Example 19-1 -- Hello WPF\Example 19-1 -- Hello WPF\obj\Debug\Example 19-1 -- Hello WPF.pdb
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 19\Example 19-1 -- Hello WPF\Example 19-1 -- Hello WPF\obj\Debug\Example 19-1 -- Hello WPF.exe
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 19\Example 19-1 -- Hello WPF\Example 19-1 -- Hello WPF\obj\Debug\Example 19-1 -- Hello WPF.pdb
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 19\Example 19-1 -- Hello WPF\Example 19-1 -- Hello WPF\bin\Debug\Example 19-1 -- Hello WPF.exe
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 19\Example 19-1 -- Hello WPF\Example 19-1 -- Hello WPF\bin\Debug\Example 19-1 -- Hello WPF.pdb
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 19\Example 19-1 -- Hello WPF\Example 19-1 -- Hello WPF\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 19\Example 19-1 -- Hello WPF\Example 19-1 -- Hello WPF\obj\Debug\Window1.baml
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 19\Example 19-1 -- Hello WPF\Example 19-1 -- Hello WPF\obj\Debug\Window1.g.cs
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 19\Example 19-1 -- Hello WPF\Example 19-1 -- Hello WPF\obj\Debug\App.g.cs
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 19\Example 19-1 -- Hello WPF\Example 19-1 -- Hello WPF\obj\Debug\Example 19-1 -- Hello WPF_MarkupCompile.cache
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 19\Example 19-1 -- Hello WPF\Example 19-1 -- Hello WPF\obj\Debug\Example 19-1 -- Hello WPF.g.resources
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 19\Example 19-1 -- Hello WPF\Example 19-1 -- Hello WPF\obj\Debug\Example_19_1____Hello_WPF.Properties.Resources.resources
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 19\Example 19-1 -- Hello WPF\Example 19-1 -- Hello WPF\obj\Debug\Example 19-1 -- Hello WPF.csproj.GenerateResource.Cache

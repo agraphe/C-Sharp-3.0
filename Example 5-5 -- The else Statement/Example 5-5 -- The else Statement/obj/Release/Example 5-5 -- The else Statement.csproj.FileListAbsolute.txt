@@ -1,0 +1,7 @@
+C:\Documents and Settings\Brian\Local Settings\Application Data\Temporary Projects\Example 5-5 -- The else Statement\bin\Release\Example 5-5 -- The else Statement.exe
+C:\Documents and Settings\Brian\Local Settings\Application Data\Temporary Projects\Example 5-5 -- The else Statement\bin\Release\Example 5-5 -- The else Statement.pdb
+C:\Documents and Settings\Brian\Local Settings\Application Data\Temporary Projects\Example 5-5 -- The else Statement\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Brian\Local Settings\Application Data\Temporary Projects\Example 5-5 -- The else Statement\obj\Release\Example 5-5 -- The else Statement.exe
+C:\Documents and Settings\Brian\Local Settings\Application Data\Temporary Projects\Example 5-5 -- The else Statement\obj\Release\Example 5-5 -- The else Statement.pdb
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 5\Example 5-5 -- The else Statement\Example 5-5 -- The else Statement\obj\Release\Example 5-5 -- The else Statement.exe
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 5\Example 5-5 -- The else Statement\Example 5-5 -- The else Statement\obj\Release\Example 5-5 -- The else Statement.pdb

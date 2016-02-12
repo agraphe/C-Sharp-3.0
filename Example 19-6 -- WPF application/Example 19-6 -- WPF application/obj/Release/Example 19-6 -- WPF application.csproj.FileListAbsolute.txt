@@ -1,0 +1,28 @@
+C:\Users\Brian\Documents\Visual Studio 2008\Projects\Chapter 19\Example 19-6 -- WPF application\Example 19-6 -- WPF application\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Brian\Documents\Visual Studio 2008\Projects\Chapter 19\Example 19-6 -- WPF application\Example 19-6 -- WPF application\obj\Release\Window1.g.cs
+C:\Users\Brian\Documents\Visual Studio 2008\Projects\Chapter 19\Example 19-6 -- WPF application\Example 19-6 -- WPF application\obj\Release\App.g.cs
+C:\Users\Brian\Documents\Visual Studio 2008\Projects\Chapter 19\Example 19-6 -- WPF application\Example 19-6 -- WPF application\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\Brian\Documents\Visual Studio 2008\Projects\Chapter 19\Example 19-6 -- WPF application\Example 19-6 -- WPF application\obj\Release\Example 19-6 -- WPF application_MarkupCompile.cache
+C:\Users\Brian\Documents\Visual Studio 2008\Projects\Chapter 19\Example 19-6 -- WPF application\Example 19-6 -- WPF application\obj\Release\Example 19-6 -- WPF application_MarkupCompile.lref
+C:\Users\Brian\Documents\Visual Studio 2008\Projects\Chapter 19\Example 19-6 -- WPF application\Example 19-6 -- WPF application\bin\Release\Example 19-6 -- WPF application.exe
+C:\Users\Brian\Documents\Visual Studio 2008\Projects\Chapter 19\Example 19-6 -- WPF application\Example 19-6 -- WPF application\bin\Release\Example 19-6 -- WPF application.pdb
+C:\Users\Brian\Documents\Visual Studio 2008\Projects\Chapter 19\Example 19-6 -- WPF application\Example 19-6 -- WPF application\obj\Release\Window1.baml
+C:\Users\Brian\Documents\Visual Studio 2008\Projects\Chapter 19\Example 19-6 -- WPF application\Example 19-6 -- WPF application\obj\Release\Example 19-6 -- WPF application.g.resources
+C:\Users\Brian\Documents\Visual Studio 2008\Projects\Chapter 19\Example 19-6 -- WPF application\Example 19-6 -- WPF application\obj\Release\Example_19_6____WPF_application.Properties.Resources.resources
+C:\Users\Brian\Documents\Visual Studio 2008\Projects\Chapter 19\Example 19-6 -- WPF application\Example 19-6 -- WPF application\obj\Release\Example 19-6 -- WPF application.csproj.GenerateResource.Cache
+C:\Users\Brian\Documents\Visual Studio 2008\Projects\Chapter 19\Example 19-6 -- WPF application\Example 19-6 -- WPF application\obj\Release\Example 19-6 -- WPF application.exe
+C:\Users\Brian\Documents\Visual Studio 2008\Projects\Chapter 19\Example 19-6 -- WPF application\Example 19-6 -- WPF application\obj\Release\Example 19-6 -- WPF application.pdb
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 19\Example 19-6 -- WPF application\Example 19-6 -- WPF application\bin\Release\Example 19-6 -- WPF application.exe
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 19\Example 19-6 -- WPF application\Example 19-6 -- WPF application\bin\Release\Example 19-6 -- WPF application.pdb
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 19\Example 19-6 -- WPF application\Example 19-6 -- WPF application\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 19\Example 19-6 -- WPF application\Example 19-6 -- WPF application\obj\Release\Window1.g.cs
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 19\Example 19-6 -- WPF application\Example 19-6 -- WPF application\obj\Release\App.g.cs
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 19\Example 19-6 -- WPF application\Example 19-6 -- WPF application\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 19\Example 19-6 -- WPF application\Example 19-6 -- WPF application\obj\Release\Example 19-6 -- WPF application_MarkupCompile.cache
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 19\Example 19-6 -- WPF application\Example 19-6 -- WPF application\obj\Release\Example 19-6 -- WPF application_MarkupCompile.lref
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 19\Example 19-6 -- WPF application\Example 19-6 -- WPF application\obj\Release\Window1.baml
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 19\Example 19-6 -- WPF application\Example 19-6 -- WPF application\obj\Release\Example 19-6 -- WPF application.g.resources
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 19\Example 19-6 -- WPF application\Example 19-6 -- WPF application\obj\Release\Example_19_6____WPF_application.Properties.Resources.resources
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 19\Example 19-6 -- WPF application\Example 19-6 -- WPF application\obj\Release\Example 19-6 -- WPF application.csproj.GenerateResource.Cache
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 19\Example 19-6 -- WPF application\Example 19-6 -- WPF application\obj\Release\Example 19-6 -- WPF application.exe
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 19\Example 19-6 -- WPF application\Example 19-6 -- WPF application\obj\Release\Example 19-6 -- WPF application.pdb

@@ -1,0 +1,24 @@
+C:\Users\Brian\AppData\Local\Temporary Projects\Example 19-3 -- Classes and Styles\bin\Debug\Example 19-3 -- Classes and Styles.exe
+C:\Users\Brian\AppData\Local\Temporary Projects\Example 19-3 -- Classes and Styles\bin\Debug\Example 19-3 -- Classes and Styles.pdb
+C:\Users\Brian\AppData\Local\Temporary Projects\Example 19-3 -- Classes and Styles\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Brian\AppData\Local\Temporary Projects\Example 19-3 -- Classes and Styles\obj\Debug\Window1.baml
+C:\Users\Brian\AppData\Local\Temporary Projects\Example 19-3 -- Classes and Styles\obj\Debug\Window1.g.cs
+C:\Users\Brian\AppData\Local\Temporary Projects\Example 19-3 -- Classes and Styles\obj\Debug\App.g.cs
+C:\Users\Brian\AppData\Local\Temporary Projects\Example 19-3 -- Classes and Styles\obj\Debug\Example 19-3 -- Classes and Styles_MarkupCompile.cache
+C:\Users\Brian\AppData\Local\Temporary Projects\Example 19-3 -- Classes and Styles\obj\Debug\Example 19-3 -- Classes and Styles.g.resources
+C:\Users\Brian\AppData\Local\Temporary Projects\Example 19-3 -- Classes and Styles\obj\Debug\Example_19_3____Classes_and_Styles.Properties.Resources.resources
+C:\Users\Brian\AppData\Local\Temporary Projects\Example 19-3 -- Classes and Styles\obj\Debug\Example 19-3 -- Classes and Styles.csproj.GenerateResource.Cache
+C:\Users\Brian\AppData\Local\Temporary Projects\Example 19-3 -- Classes and Styles\obj\Debug\Example 19-3 -- Classes and Styles.exe
+C:\Users\Brian\AppData\Local\Temporary Projects\Example 19-3 -- Classes and Styles\obj\Debug\Example 19-3 -- Classes and Styles.pdb
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 19\Example 19-3 -- Classes and Styles\Example 19-3 -- Classes and Styles\obj\Debug\Example 19-3 -- Classes and Styles.exe
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 19\Example 19-3 -- Classes and Styles\Example 19-3 -- Classes and Styles\obj\Debug\Example 19-3 -- Classes and Styles.pdb
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 19\Example 19-3 -- Classes and Styles\Example 19-3 -- Classes and Styles\bin\Debug\Example 19-3 -- Classes and Styles.exe
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 19\Example 19-3 -- Classes and Styles\Example 19-3 -- Classes and Styles\bin\Debug\Example 19-3 -- Classes and Styles.pdb
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 19\Example 19-3 -- Classes and Styles\Example 19-3 -- Classes and Styles\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 19\Example 19-3 -- Classes and Styles\Example 19-3 -- Classes and Styles\obj\Debug\Window1.baml
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 19\Example 19-3 -- Classes and Styles\Example 19-3 -- Classes and Styles\obj\Debug\Window1.g.cs
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 19\Example 19-3 -- Classes and Styles\Example 19-3 -- Classes and Styles\obj\Debug\App.g.cs
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 19\Example 19-3 -- Classes and Styles\Example 19-3 -- Classes and Styles\obj\Debug\Example 19-3 -- Classes and Styles_MarkupCompile.cache
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 19\Example 19-3 -- Classes and Styles\Example 19-3 -- Classes and Styles\obj\Debug\Example 19-3 -- Classes and Styles.g.resources
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 19\Example 19-3 -- Classes and Styles\Example 19-3 -- Classes and Styles\obj\Debug\Example_19_3____Classes_and_Styles.Properties.Resources.resources
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 19\Example 19-3 -- Classes and Styles\Example 19-3 -- Classes and Styles\obj\Debug\Example 19-3 -- Classes and Styles.csproj.GenerateResource.Cache

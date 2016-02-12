@@ -1,0 +1,5 @@
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 10\Example 10-2 -- Arrays and Objects\Example 8-2 -- Arrays and Objects\bin\Release\Example 8-2 -- Arrays and Objects.exe
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 10\Example 10-2 -- Arrays and Objects\Example 8-2 -- Arrays and Objects\bin\Release\Example 8-2 -- Arrays and Objects.pdb
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 10\Example 10-2 -- Arrays and Objects\Example 8-2 -- Arrays and Objects\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 10\Example 10-2 -- Arrays and Objects\Example 8-2 -- Arrays and Objects\obj\Release\Example 8-2 -- Arrays and Objects.exe
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 10\Example 10-2 -- Arrays and Objects\Example 8-2 -- Arrays and Objects\obj\Release\Example 8-2 -- Arrays and Objects.pdb

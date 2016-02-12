@@ -1,0 +1,15 @@
+C:\Users\Brian\AppData\Local\Temporary Projects\Example 4-2 -- Modulus operator\bin\Release\Example 4-2 -- Modulus operator.exe
+C:\Users\Brian\AppData\Local\Temporary Projects\Example 4-2 -- Modulus operator\bin\Release\Example 4-2 -- Modulus operator.pdb
+C:\Users\Brian\AppData\Local\Temporary Projects\Example 4-2 -- Modulus operator\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Brian\AppData\Local\Temporary Projects\Example 4-2 -- Modulus operator\obj\Release\Example 4-2 -- Modulus operator.exe
+C:\Users\Brian\AppData\Local\Temporary Projects\Example 4-2 -- Modulus operator\obj\Release\Example 4-2 -- Modulus operator.pdb
+C:\Users\Brian\Documents\Visual Studio 2008\Projects\Example 4-2 -- Modulus operator\Example 4-2 -- Modulus operator\obj\Release\Example 4-2 -- Modulus operator.exe
+C:\Users\Brian\Documents\Visual Studio 2008\Projects\Example 4-2 -- Modulus operator\Example 4-2 -- Modulus operator\obj\Release\Example 4-2 -- Modulus operator.pdb
+C:\Users\Brian\Documents\Visual Studio 2008\Projects\Example 4-2 -- Modulus operator\Example 4-2 -- Modulus operator\bin\Release\Example 4-2 -- Modulus operator.exe
+C:\Users\Brian\Documents\Visual Studio 2008\Projects\Example 4-2 -- Modulus operator\Example 4-2 -- Modulus operator\bin\Release\Example 4-2 -- Modulus operator.pdb
+C:\Users\Brian\Documents\Visual Studio 2008\Projects\Example 4-2 -- Modulus operator\Example 4-2 -- Modulus operator\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 4\Example 4-2 -- Modulus operator\Example 4-2 -- Modulus operator\obj\Release\Example 4-2 -- Modulus operator.exe
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 4\Example 4-2 -- Modulus operator\Example 4-2 -- Modulus operator\obj\Release\Example 4-2 -- Modulus operator.pdb
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 4\Example 4-2 -- Modulus operator\Example 4-2 -- Modulus operator\bin\Release\Example 4-2 -- Modulus operator.exe
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 4\Example 4-2 -- Modulus operator\Example 4-2 -- Modulus operator\bin\Release\Example 4-2 -- Modulus operator.pdb
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 4\Example 4-2 -- Modulus operator\Example 4-2 -- Modulus operator\obj\Release\ResolveAssemblyReference.cache

@@ -1,0 +1,12 @@
+C:\Users\Brian\AppData\Local\Temporary Projects\Example 14-1 -- Simple Indexer\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Brian\AppData\Local\Temporary Projects\Example 14-1 -- Simple Indexer\bin\Release\Example 14-1 -- Simple Indexer.exe
+C:\Users\Brian\AppData\Local\Temporary Projects\Example 14-1 -- Simple Indexer\bin\Release\Example 14-1 -- Simple Indexer.pdb
+C:\Users\Brian\AppData\Local\Temporary Projects\Example 14-1 -- Simple Indexer\obj\Release\Example 14-1 -- Simple Indexer.exe
+C:\Users\Brian\AppData\Local\Temporary Projects\Example 14-1 -- Simple Indexer\obj\Release\Example 14-1 -- Simple Indexer.pdb
+C:\Users\Brian\Documents\Visual Studio 2008\Projects\Chapter 13\Example 14-1 -- Simple Indexer\Example 14-1 -- Simple Indexer\obj\Release\Example 14-1 -- Simple Indexer.exe
+C:\Users\Brian\Documents\Visual Studio 2008\Projects\Chapter 13\Example 14-1 -- Simple Indexer\Example 14-1 -- Simple Indexer\obj\Release\Example 14-1 -- Simple Indexer.pdb
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 14\Example 14-1 -- Simple Indexer\Example 14-1 -- Simple Indexer\obj\Release\Example 14-1 -- Simple Indexer.exe
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 14\Example 14-1 -- Simple Indexer\Example 14-1 -- Simple Indexer\obj\Release\Example 14-1 -- Simple Indexer.pdb
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 14\Example 14-1 -- Simple Indexer\Example 14-1 -- Simple Indexer\bin\Release\Example 14-1 -- Simple Indexer.exe
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 14\Example 14-1 -- Simple Indexer\Example 14-1 -- Simple Indexer\bin\Release\Example 14-1 -- Simple Indexer.pdb
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 14\Example 14-1 -- Simple Indexer\Example 14-1 -- Simple Indexer\obj\Release\ResolveAssemblyReference.cache

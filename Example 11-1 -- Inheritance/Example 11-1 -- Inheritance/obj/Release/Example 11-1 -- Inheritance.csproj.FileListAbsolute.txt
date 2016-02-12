@@ -1,0 +1,12 @@
+C:\Users\Brian\AppData\Local\Temporary Projects\Example 11-1 -- Inheritance\bin\Release\Example 11-1 -- Inheritance.exe
+C:\Users\Brian\AppData\Local\Temporary Projects\Example 11-1 -- Inheritance\bin\Release\Example 11-1 -- Inheritance.pdb
+C:\Users\Brian\AppData\Local\Temporary Projects\Example 11-1 -- Inheritance\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Brian\AppData\Local\Temporary Projects\Example 11-1 -- Inheritance\obj\Release\Example 11-1 -- Inheritance.exe
+C:\Users\Brian\AppData\Local\Temporary Projects\Example 11-1 -- Inheritance\obj\Release\Example 11-1 -- Inheritance.pdb
+C:\Users\Brian\Documents\Visual Studio 2008\Projects\Chapter 11\Example 11-1 -- Inheritance\Example 11-1 -- Inheritance\obj\Release\Example 11-1 -- Inheritance.exe
+C:\Users\Brian\Documents\Visual Studio 2008\Projects\Chapter 11\Example 11-1 -- Inheritance\Example 11-1 -- Inheritance\obj\Release\Example 11-1 -- Inheritance.pdb
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 11\Example 11-1 -- Inheritance\Example 11-1 -- Inheritance\obj\Release\Example 11-1 -- Inheritance.exe
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 11\Example 11-1 -- Inheritance\Example 11-1 -- Inheritance\obj\Release\Example 11-1 -- Inheritance.pdb
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 11\Example 11-1 -- Inheritance\Example 11-1 -- Inheritance\bin\Release\Example 11-1 -- Inheritance.exe
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 11\Example 11-1 -- Inheritance\Example 11-1 -- Inheritance\bin\Release\Example 11-1 -- Inheritance.pdb
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 11\Example 11-1 -- Inheritance\Example 11-1 -- Inheritance\obj\Release\ResolveAssemblyReference.cache

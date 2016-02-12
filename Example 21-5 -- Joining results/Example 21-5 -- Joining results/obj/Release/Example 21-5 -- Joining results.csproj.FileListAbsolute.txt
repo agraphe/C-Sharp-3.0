@@ -1,0 +1,5 @@
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 21\Example 21-5 -- Joining results\Example 21-5 -- Joining results\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 21\Example 21-5 -- Joining results\Example 21-5 -- Joining results\bin\Release\Example 21-5 -- Joining results.exe
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 21\Example 21-5 -- Joining results\Example 21-5 -- Joining results\bin\Release\Example 21-5 -- Joining results.pdb
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 21\Example 21-5 -- Joining results\Example 21-5 -- Joining results\obj\Release\Example 21-5 -- Joining results.exe
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 21\Example 21-5 -- Joining results\Example 21-5 -- Joining results\obj\Release\Example 21-5 -- Joining results.pdb

@@ -1,0 +1,12 @@
+C:\Users\Brian\AppData\Local\Temporary Projects\Exercise 7-4\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Brian\AppData\Local\Temporary Projects\Exercise 7-4\bin\Release\Exercise 7-4.exe
+C:\Users\Brian\AppData\Local\Temporary Projects\Exercise 7-4\bin\Release\Exercise 7-4.pdb
+C:\Users\Brian\AppData\Local\Temporary Projects\Exercise 7-4\obj\Release\Exercise 7-4.exe
+C:\Users\Brian\AppData\Local\Temporary Projects\Exercise 7-4\obj\Release\Exercise 7-4.pdb
+C:\Users\Brian\Documents\Visual Studio 2008\Projects\Chapter 7\Exercise 7-4\Exercise 7-4\obj\Release\Exercise 7-4.exe
+C:\Users\Brian\Documents\Visual Studio 2008\Projects\Chapter 7\Exercise 7-4\Exercise 7-4\obj\Release\Exercise 7-4.pdb
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 7\Exercise 7-4\Exercise 7-4\obj\Release\Exercise 7-4.exe
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 7\Exercise 7-4\Exercise 7-4\obj\Release\Exercise 7-4.pdb
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 7\Exercise 7-4\Exercise 7-4\bin\Release\Exercise 7-4.exe
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 7\Exercise 7-4\Exercise 7-4\bin\Release\Exercise 7-4.pdb
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 7\Exercise 7-4\Exercise 7-4\obj\Release\ResolveAssemblyReference.cache

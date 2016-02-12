@@ -1,0 +1,7 @@
+C:\Documents and Settings\Brian\Local Settings\Application Data\Temporary Projects\Example 16-2 -- try and catch Blocks\bin\Release\Example 16-2 -- try and catch Blocks.exe
+C:\Documents and Settings\Brian\Local Settings\Application Data\Temporary Projects\Example 16-2 -- try and catch Blocks\bin\Release\Example 16-2 -- try and catch Blocks.pdb
+C:\Documents and Settings\Brian\Local Settings\Application Data\Temporary Projects\Example 16-2 -- try and catch Blocks\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Brian\Local Settings\Application Data\Temporary Projects\Example 16-2 -- try and catch Blocks\obj\Release\Example 16-2 -- try and catch Blocks.exe
+C:\Documents and Settings\Brian\Local Settings\Application Data\Temporary Projects\Example 16-2 -- try and catch Blocks\obj\Release\Example 16-2 -- try and catch Blocks.pdb
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 16\Example 16-2 -- try and catch Blocks\Example 16-2 -- try and catch Blocks\obj\Release\Example 16-2 -- try and catch Blocks.exe
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 16\Example 16-2 -- try and catch Blocks\Example 16-2 -- try and catch Blocks\obj\Release\Example 16-2 -- try and catch Blocks.pdb

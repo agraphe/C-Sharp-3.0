@@ -1,0 +1,10 @@
+C:\Users\Brian\AppData\Local\Temporary Projects\Exercise 9-1\bin\Release\Exercise 9-1.exe
+C:\Users\Brian\AppData\Local\Temporary Projects\Exercise 9-1\bin\Release\Exercise 9-1.pdb
+C:\Users\Brian\AppData\Local\Temporary Projects\Exercise 9-1\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Brian\AppData\Local\Temporary Projects\Exercise 9-1\obj\Release\Exercise 9-1.exe
+C:\Users\Brian\AppData\Local\Temporary Projects\Exercise 9-1\obj\Release\Exercise 9-1.pdb
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 9\Exercise 9-1\bin\Release\Exercise 9-1.exe
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 9\Exercise 9-1\bin\Release\Exercise 9-1.pdb
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 9\Exercise 9-1\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 9\Exercise 9-1\obj\Release\Exercise 9-1.exe
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 9\Exercise 9-1\obj\Release\Exercise 9-1.pdb

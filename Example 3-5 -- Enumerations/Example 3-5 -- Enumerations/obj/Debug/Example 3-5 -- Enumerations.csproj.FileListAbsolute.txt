@@ -1,0 +1,5 @@
+C:\Users\Brian\AppData\Local\Temporary Projects\Example 3-5 -- Enumerations\bin\Debug\Example 3-5 -- Enumerations.exe
+C:\Users\Brian\AppData\Local\Temporary Projects\Example 3-5 -- Enumerations\bin\Debug\Example 3-5 -- Enumerations.pdb
+C:\Users\Brian\AppData\Local\Temporary Projects\Example 3-5 -- Enumerations\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Brian\AppData\Local\Temporary Projects\Example 3-5 -- Enumerations\obj\Debug\Example 3-5 -- Enumerations.exe
+C:\Users\Brian\AppData\Local\Temporary Projects\Example 3-5 -- Enumerations\obj\Debug\Example 3-5 -- Enumerations.pdb

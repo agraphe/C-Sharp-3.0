@@ -1,0 +1,10 @@
+C:\Users\Brian\AppData\Local\Temporary Projects\Example 10-4 -- params keyword\bin\Release\Example 10-4 -- params keyword.exe
+C:\Users\Brian\AppData\Local\Temporary Projects\Example 10-4 -- params keyword\bin\Release\Example 10-4 -- params keyword.pdb
+C:\Users\Brian\AppData\Local\Temporary Projects\Example 10-4 -- params keyword\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Brian\AppData\Local\Temporary Projects\Example 10-4 -- params keyword\obj\Release\Example 10-4 -- params keyword.exe
+C:\Users\Brian\AppData\Local\Temporary Projects\Example 10-4 -- params keyword\obj\Release\Example 10-4 -- params keyword.pdb
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 10\Example 10-4 -- params keyword\Example 10-4 -- params keyword\obj\Release\Example 10-4 -- params keyword.exe
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 10\Example 10-4 -- params keyword\Example 10-4 -- params keyword\obj\Release\Example 10-4 -- params keyword.pdb
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 10\Example 10-4 -- params keyword\Example 10-4 -- params keyword\bin\Release\Example 10-4 -- params keyword.exe
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 10\Example 10-4 -- params keyword\Example 10-4 -- params keyword\bin\Release\Example 10-4 -- params keyword.pdb
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 10\Example 10-4 -- params keyword\Example 10-4 -- params keyword\obj\Release\ResolveAssemblyReference.cache

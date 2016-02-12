@@ -1,0 +1,12 @@
+C:\Users\Brian\AppData\Local\Temporary Projects\Example 15-5 -- String Methods\bin\Release\Example 15-5 -- String Methods.exe
+C:\Users\Brian\AppData\Local\Temporary Projects\Example 15-5 -- String Methods\bin\Release\Example 15-5 -- String Methods.pdb
+C:\Users\Brian\AppData\Local\Temporary Projects\Example 15-5 -- String Methods\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Brian\AppData\Local\Temporary Projects\Example 15-5 -- String Methods\obj\Release\Example 15-5 -- String Methods.exe
+C:\Users\Brian\AppData\Local\Temporary Projects\Example 15-5 -- String Methods\obj\Release\Example 15-5 -- String Methods.pdb
+C:\Users\Brian\Documents\Visual Studio 2008\Projects\Chapter 15\Example 15-5 -- String Methods\Example 15-5 -- String Methods\obj\Release\Example 15-5 -- String Methods.exe
+C:\Users\Brian\Documents\Visual Studio 2008\Projects\Chapter 15\Example 15-5 -- String Methods\Example 15-5 -- String Methods\obj\Release\Example 15-5 -- String Methods.pdb
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 15\Example 15-5 -- String Methods\Example 15-5 -- String Methods\obj\Release\Example 15-5 -- String Methods.exe
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 15\Example 15-5 -- String Methods\Example 15-5 -- String Methods\obj\Release\Example 15-5 -- String Methods.pdb
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 15\Example 15-5 -- String Methods\Example 15-5 -- String Methods\bin\Release\Example 15-5 -- String Methods.exe
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 15\Example 15-5 -- String Methods\Example 15-5 -- String Methods\bin\Release\Example 15-5 -- String Methods.pdb
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 15\Example 15-5 -- String Methods\Example 15-5 -- String Methods\obj\Release\ResolveAssemblyReference.cache

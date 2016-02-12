@@ -1,0 +1,12 @@
+C:\Users\Brian\AppData\Local\Temporary Projects\Example 4-1 -- Integer and Float Division\bin\Release\Example 4-1 -- Integer and Float Division.exe
+C:\Users\Brian\AppData\Local\Temporary Projects\Example 4-1 -- Integer and Float Division\bin\Release\Example 4-1 -- Integer and Float Division.pdb
+C:\Users\Brian\AppData\Local\Temporary Projects\Example 4-1 -- Integer and Float Division\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Brian\AppData\Local\Temporary Projects\Example 4-1 -- Integer and Float Division\obj\Release\Example 4-1 -- Integer and Float Division.exe
+C:\Users\Brian\AppData\Local\Temporary Projects\Example 4-1 -- Integer and Float Division\obj\Release\Example 4-1 -- Integer and Float Division.pdb
+C:\Users\Brian\Documents\Visual Studio 2008\Projects\Example 4-1 -- Integer and Float Division\Example 4-1 -- Integer and Float Division\obj\Release\Example 4-1 -- Integer and Float Division.exe
+C:\Users\Brian\Documents\Visual Studio 2008\Projects\Example 4-1 -- Integer and Float Division\Example 4-1 -- Integer and Float Division\obj\Release\Example 4-1 -- Integer and Float Division.pdb
+C:\Users\Brian\Documents\Visual Studio 2008\Projects\Example 4-1 -- Integer and Float Division\Example 4-1 -- Integer and Float Division\bin\Release\Example 4-1 -- Integer and Float Division.exe
+C:\Users\Brian\Documents\Visual Studio 2008\Projects\Example 4-1 -- Integer and Float Division\Example 4-1 -- Integer and Float Division\bin\Release\Example 4-1 -- Integer and Float Division.pdb
+C:\Users\Brian\Documents\Visual Studio 2008\Projects\Example 4-1 -- Integer and Float Division\Example 4-1 -- Integer and Float Division\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 4\Example 4-1 -- Integer and Float Division\Example 4-1 -- Integer and Float Division\obj\Release\Example 4-1 -- Integer and Float Division.exe
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 4\Example 4-1 -- Integer and Float Division\Example 4-1 -- Integer and Float Division\obj\Release\Example 4-1 -- Integer and Float Division.pdb

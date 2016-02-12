@@ -1,0 +1,24 @@
+C:\Users\Brian\Documents\Visual Studio 2008\Projects\Chapter 19\Example 19-2 -- Properties in WPF\Example 19-2 -- Properties in WPF\bin\Debug\Example 19-2 -- Properties in WPF.exe
+C:\Users\Brian\Documents\Visual Studio 2008\Projects\Chapter 19\Example 19-2 -- Properties in WPF\Example 19-2 -- Properties in WPF\bin\Debug\Example 19-2 -- Properties in WPF.pdb
+C:\Users\Brian\Documents\Visual Studio 2008\Projects\Chapter 19\Example 19-2 -- Properties in WPF\Example 19-2 -- Properties in WPF\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Brian\Documents\Visual Studio 2008\Projects\Chapter 19\Example 19-2 -- Properties in WPF\Example 19-2 -- Properties in WPF\obj\Debug\Window1.baml
+C:\Users\Brian\Documents\Visual Studio 2008\Projects\Chapter 19\Example 19-2 -- Properties in WPF\Example 19-2 -- Properties in WPF\obj\Debug\Window1.g.cs
+C:\Users\Brian\Documents\Visual Studio 2008\Projects\Chapter 19\Example 19-2 -- Properties in WPF\Example 19-2 -- Properties in WPF\obj\Debug\App.g.cs
+C:\Users\Brian\Documents\Visual Studio 2008\Projects\Chapter 19\Example 19-2 -- Properties in WPF\Example 19-2 -- Properties in WPF\obj\Debug\Example 19-2 -- Properties in WPF_MarkupCompile.cache
+C:\Users\Brian\Documents\Visual Studio 2008\Projects\Chapter 19\Example 19-2 -- Properties in WPF\Example 19-2 -- Properties in WPF\obj\Debug\Example 19-2 -- Properties in WPF.g.resources
+C:\Users\Brian\Documents\Visual Studio 2008\Projects\Chapter 19\Example 19-2 -- Properties in WPF\Example 19-2 -- Properties in WPF\obj\Debug\Example_19_2____Properties_in_WPF.Properties.Resources.resources
+C:\Users\Brian\Documents\Visual Studio 2008\Projects\Chapter 19\Example 19-2 -- Properties in WPF\Example 19-2 -- Properties in WPF\obj\Debug\Example 19-2 -- Properties in WPF.csproj.GenerateResource.Cache
+C:\Users\Brian\Documents\Visual Studio 2008\Projects\Chapter 19\Example 19-2 -- Properties in WPF\Example 19-2 -- Properties in WPF\obj\Debug\Example 19-2 -- Properties in WPF.exe
+C:\Users\Brian\Documents\Visual Studio 2008\Projects\Chapter 19\Example 19-2 -- Properties in WPF\Example 19-2 -- Properties in WPF\obj\Debug\Example 19-2 -- Properties in WPF.pdb
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 19\Example 19-2 -- Properties in WPF\Example 19-2 -- Properties in WPF\obj\Debug\Example 19-2 -- Properties in WPF.exe
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 19\Example 19-2 -- Properties in WPF\Example 19-2 -- Properties in WPF\obj\Debug\Example 19-2 -- Properties in WPF.pdb
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 19\Example 19-2 -- Properties in WPF\Example 19-2 -- Properties in WPF\bin\Debug\Example 19-2 -- Properties in WPF.exe
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 19\Example 19-2 -- Properties in WPF\Example 19-2 -- Properties in WPF\bin\Debug\Example 19-2 -- Properties in WPF.pdb
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 19\Example 19-2 -- Properties in WPF\Example 19-2 -- Properties in WPF\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 19\Example 19-2 -- Properties in WPF\Example 19-2 -- Properties in WPF\obj\Debug\Window1.baml
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 19\Example 19-2 -- Properties in WPF\Example 19-2 -- Properties in WPF\obj\Debug\Window1.g.cs
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 19\Example 19-2 -- Properties in WPF\Example 19-2 -- Properties in WPF\obj\Debug\App.g.cs
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 19\Example 19-2 -- Properties in WPF\Example 19-2 -- Properties in WPF\obj\Debug\Example 19-2 -- Properties in WPF_MarkupCompile.cache
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 19\Example 19-2 -- Properties in WPF\Example 19-2 -- Properties in WPF\obj\Debug\Example 19-2 -- Properties in WPF.g.resources
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 19\Example 19-2 -- Properties in WPF\Example 19-2 -- Properties in WPF\obj\Debug\Example_19_2____Properties_in_WPF.Properties.Resources.resources
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 19\Example 19-2 -- Properties in WPF\Example 19-2 -- Properties in WPF\obj\Debug\Example 19-2 -- Properties in WPF.csproj.GenerateResource.Cache

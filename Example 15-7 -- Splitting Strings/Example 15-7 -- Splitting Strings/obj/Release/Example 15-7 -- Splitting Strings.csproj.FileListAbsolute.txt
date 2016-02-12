@@ -1,0 +1,12 @@
+C:\Users\Brian\AppData\Local\Temporary Projects\Example 15-7 -- Splitting Strings\bin\Release\Example 15-7 -- Splitting Strings.exe
+C:\Users\Brian\AppData\Local\Temporary Projects\Example 15-7 -- Splitting Strings\bin\Release\Example 15-7 -- Splitting Strings.pdb
+C:\Users\Brian\AppData\Local\Temporary Projects\Example 15-7 -- Splitting Strings\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Brian\AppData\Local\Temporary Projects\Example 15-7 -- Splitting Strings\obj\Release\Example 15-7 -- Splitting Strings.exe
+C:\Users\Brian\AppData\Local\Temporary Projects\Example 15-7 -- Splitting Strings\obj\Release\Example 15-7 -- Splitting Strings.pdb
+C:\Users\Brian\Documents\Visual Studio 2008\Projects\Chapter 15\Example 15-7 -- Splitting Strings\Example 15-7 -- Splitting Strings\obj\Release\Example 15-7 -- Splitting Strings.exe
+C:\Users\Brian\Documents\Visual Studio 2008\Projects\Chapter 15\Example 15-7 -- Splitting Strings\Example 15-7 -- Splitting Strings\obj\Release\Example 15-7 -- Splitting Strings.pdb
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 15\Example 15-7 -- Splitting Strings\Example 15-7 -- Splitting Strings\obj\Release\Example 15-7 -- Splitting Strings.exe
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 15\Example 15-7 -- Splitting Strings\Example 15-7 -- Splitting Strings\obj\Release\Example 15-7 -- Splitting Strings.pdb
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 15\Example 15-7 -- Splitting Strings\Example 15-7 -- Splitting Strings\bin\Release\Example 15-7 -- Splitting Strings.exe
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 15\Example 15-7 -- Splitting Strings\Example 15-7 -- Splitting Strings\bin\Release\Example 15-7 -- Splitting Strings.pdb
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 15\Example 15-7 -- Splitting Strings\Example 15-7 -- Splitting Strings\obj\Release\ResolveAssemblyReference.cache

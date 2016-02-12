@@ -1,0 +1,5 @@
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 3\Example 3-3 -- Definite assignment\Example 3-3 -- Definite assignment\bin\Release\Example 3-3 -- Definite assignment.exe
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 3\Example 3-3 -- Definite assignment\Example 3-3 -- Definite assignment\bin\Release\Example 3-3 -- Definite assignment.pdb
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 3\Example 3-3 -- Definite assignment\Example 3-3 -- Definite assignment\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 3\Example 3-3 -- Definite assignment\Example 3-3 -- Definite assignment\obj\Release\Example 3-3 -- Definite assignment.exe
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 3\Example 3-3 -- Definite assignment\Example 3-3 -- Definite assignment\obj\Release\Example 3-3 -- Definite assignment.pdb

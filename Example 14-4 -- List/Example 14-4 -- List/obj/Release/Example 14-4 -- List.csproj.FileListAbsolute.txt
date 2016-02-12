@@ -1,0 +1,12 @@
+C:\Users\Brian\AppData\Local\Temporary Projects\Example 14-4 -- List\bin\Release\Example 14-4 -- List.exe
+C:\Users\Brian\AppData\Local\Temporary Projects\Example 14-4 -- List\bin\Release\Example 14-4 -- List.pdb
+C:\Users\Brian\AppData\Local\Temporary Projects\Example 14-4 -- List\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Brian\AppData\Local\Temporary Projects\Example 14-4 -- List\obj\Release\Example 14-4 -- List.exe
+C:\Users\Brian\AppData\Local\Temporary Projects\Example 14-4 -- List\obj\Release\Example 14-4 -- List.pdb
+C:\Users\Brian\Documents\Visual Studio 2008\Projects\Chapter 14\Example 14-4 -- List\Example 14-4 -- List\obj\Release\Example 14-4 -- List.exe
+C:\Users\Brian\Documents\Visual Studio 2008\Projects\Chapter 14\Example 14-4 -- List\Example 14-4 -- List\obj\Release\Example 14-4 -- List.pdb
+C:\Users\Brian\Documents\Visual Studio 2008\Projects\Chapter 14\Example 14-4 -- List\Example 14-4 -- List\bin\Release\Example 14-4 -- List.exe
+C:\Users\Brian\Documents\Visual Studio 2008\Projects\Chapter 14\Example 14-4 -- List\Example 14-4 -- List\bin\Release\Example 14-4 -- List.pdb
+C:\Users\Brian\Documents\Visual Studio 2008\Projects\Chapter 14\Example 14-4 -- List\Example 14-4 -- List\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 14\Example 14-4 -- List\Example 14-4 -- List\obj\Release\Example 14-4 -- List.exe
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 14\Example 14-4 -- List\Example 14-4 -- List\obj\Release\Example 14-4 -- List.pdb

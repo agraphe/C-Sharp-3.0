@@ -1,0 +1,9 @@
+C:\Users\Brian\AppData\Local\Temporary Projects\Exercises 5-3\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Brian\AppData\Local\Temporary Projects\Exercises 5-3\bin\Release\Exercises 5-3.exe
+C:\Users\Brian\AppData\Local\Temporary Projects\Exercises 5-3\bin\Release\Exercises 5-3.pdb
+C:\Users\Brian\AppData\Local\Temporary Projects\Exercises 5-3\obj\Release\Exercises 5-3.exe
+C:\Users\Brian\AppData\Local\Temporary Projects\Exercises 5-3\obj\Release\Exercises 5-3.pdb
+C:\Users\Brian\Documents\Visual Studio 2008\Projects\Chapter 5\Exercises 5-3\Exercises 5-3\obj\Release\Exercises 5-3.exe
+C:\Users\Brian\Documents\Visual Studio 2008\Projects\Chapter 5\Exercises 5-3\Exercises 5-3\obj\Release\Exercises 5-3.pdb
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 5\Exercise 5-3\Exercises 5-3\obj\Release\Exercises 5-3.exe
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 5\Exercise 5-3\Exercises 5-3\obj\Release\Exercises 5-3.pdb

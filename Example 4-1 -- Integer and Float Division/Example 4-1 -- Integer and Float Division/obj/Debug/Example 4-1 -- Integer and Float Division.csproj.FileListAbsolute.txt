@@ -1,0 +1,7 @@
+C:\Users\Brian\Documents\Visual Studio 2008\Projects\Example 4-1 -- Integer and Float Division\Example 4-1 -- Integer and Float Division\bin\Debug\Example 4-1 -- Integer and Float Division.exe
+C:\Users\Brian\Documents\Visual Studio 2008\Projects\Example 4-1 -- Integer and Float Division\Example 4-1 -- Integer and Float Division\bin\Debug\Example 4-1 -- Integer and Float Division.pdb
+C:\Users\Brian\Documents\Visual Studio 2008\Projects\Example 4-1 -- Integer and Float Division\Example 4-1 -- Integer and Float Division\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Brian\Documents\Visual Studio 2008\Projects\Example 4-1 -- Integer and Float Division\Example 4-1 -- Integer and Float Division\obj\Debug\Example 4-1 -- Integer and Float Division.exe
+C:\Users\Brian\Documents\Visual Studio 2008\Projects\Example 4-1 -- Integer and Float Division\Example 4-1 -- Integer and Float Division\obj\Debug\Example 4-1 -- Integer and Float Division.pdb
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 4\Example 4-1 -- Integer and Float Division\Example 4-1 -- Integer and Float Division\obj\Debug\Example 4-1 -- Integer and Float Division.exe
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 4\Example 4-1 -- Integer and Float Division\Example 4-1 -- Integer and Float Division\obj\Debug\Example 4-1 -- Integer and Float Division.pdb

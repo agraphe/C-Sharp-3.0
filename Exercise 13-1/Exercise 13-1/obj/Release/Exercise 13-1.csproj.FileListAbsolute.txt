@@ -1,0 +1,2 @@
+C:\Users\Brian\AppData\Local\Temporary Projects\Exercise 13-1\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 13\Exercise 13-1\Exercise 13-1\obj\Release\ResolveAssemblyReference.cache

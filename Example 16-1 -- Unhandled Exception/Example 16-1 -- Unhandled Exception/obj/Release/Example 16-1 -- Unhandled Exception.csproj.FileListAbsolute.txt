@@ -1,0 +1,7 @@
+C:\Documents and Settings\Brian\Local Settings\Application Data\Temporary Projects\Example 16-1 -- Unhandled Exception\bin\Release\Example 16-1 -- Unhandled Exception.exe
+C:\Documents and Settings\Brian\Local Settings\Application Data\Temporary Projects\Example 16-1 -- Unhandled Exception\bin\Release\Example 16-1 -- Unhandled Exception.pdb
+C:\Documents and Settings\Brian\Local Settings\Application Data\Temporary Projects\Example 16-1 -- Unhandled Exception\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Brian\Local Settings\Application Data\Temporary Projects\Example 16-1 -- Unhandled Exception\obj\Release\Example 16-1 -- Unhandled Exception.exe
+C:\Documents and Settings\Brian\Local Settings\Application Data\Temporary Projects\Example 16-1 -- Unhandled Exception\obj\Release\Example 16-1 -- Unhandled Exception.pdb
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 16\Example 16-1 -- Unhandled Exception\Example 16-1 -- Unhandled Exception\obj\Release\Example 16-1 -- Unhandled Exception.exe
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 16\Example 16-1 -- Unhandled Exception\Example 16-1 -- Unhandled Exception\obj\Release\Example 16-1 -- Unhandled Exception.pdb

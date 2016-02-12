@@ -1,0 +1,7 @@
+C:\Users\Brian\Documents\Visual Studio 2008\Projects\Chapter 10\Example 10-3 -- foreach statement\Example 10-3 -- foreach statement\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Brian\Documents\Visual Studio 2008\Projects\Chapter 10\Example 10-3 -- foreach statement\Example 10-3 -- foreach statement\bin\Release\Example 10-3 -- foreach statement.exe
+C:\Users\Brian\Documents\Visual Studio 2008\Projects\Chapter 10\Example 10-3 -- foreach statement\Example 10-3 -- foreach statement\bin\Release\Example 10-3 -- foreach statement.pdb
+C:\Users\Brian\Documents\Visual Studio 2008\Projects\Chapter 10\Example 10-3 -- foreach statement\Example 10-3 -- foreach statement\obj\Release\Example 10-3 -- foreach statement.exe
+C:\Users\Brian\Documents\Visual Studio 2008\Projects\Chapter 10\Example 10-3 -- foreach statement\Example 10-3 -- foreach statement\obj\Release\Example 10-3 -- foreach statement.pdb
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 10\Example 10-3 -- foreach statement\Example 10-3 -- foreach statement\obj\Release\Example 10-3 -- foreach statement.exe
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 10\Example 10-3 -- foreach statement\Example 10-3 -- foreach statement\obj\Release\Example 10-3 -- foreach statement.pdb

@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C# Express 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example 17-3 -- The event keyword", "Example 17-3 -- The event keyword\Example 17-3 -- The event keyword.csproj", "{5DCDE523-49D9-426F-A9FF-408E205BE43C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5DCDE523-49D9-426F-A9FF-408E205BE43C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DCDE523-49D9-426F-A9FF-408E205BE43C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DCDE523-49D9-426F-A9FF-408E205BE43C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DCDE523-49D9-426F-A9FF-408E205BE43C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

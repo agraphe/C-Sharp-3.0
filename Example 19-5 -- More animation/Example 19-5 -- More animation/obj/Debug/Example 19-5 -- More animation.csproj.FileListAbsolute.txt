@@ -1,0 +1,36 @@
+C:\Users\Brian\AppData\Local\Temporary Projects\Example 19-5 -- More animation\bin\Debug\Example 19-5 -- More animation.exe
+C:\Users\Brian\AppData\Local\Temporary Projects\Example 19-5 -- More animation\bin\Debug\Example 19-5 -- More animation.pdb
+C:\Users\Brian\AppData\Local\Temporary Projects\Example 19-5 -- More animation\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Brian\AppData\Local\Temporary Projects\Example 19-5 -- More animation\obj\Debug\Window1.baml
+C:\Users\Brian\AppData\Local\Temporary Projects\Example 19-5 -- More animation\obj\Debug\Window1.g.cs
+C:\Users\Brian\AppData\Local\Temporary Projects\Example 19-5 -- More animation\obj\Debug\App.g.cs
+C:\Users\Brian\AppData\Local\Temporary Projects\Example 19-5 -- More animation\obj\Debug\Example 19-5 -- More animation_MarkupCompile.cache
+C:\Users\Brian\AppData\Local\Temporary Projects\Example 19-5 -- More animation\obj\Debug\Example 19-5 -- More animation.g.resources
+C:\Users\Brian\AppData\Local\Temporary Projects\Example 19-5 -- More animation\obj\Debug\Example_19_5____More_animation.Properties.Resources.resources
+C:\Users\Brian\AppData\Local\Temporary Projects\Example 19-5 -- More animation\obj\Debug\Example 19-5 -- More animation.csproj.GenerateResource.Cache
+C:\Users\Brian\AppData\Local\Temporary Projects\Example 19-5 -- More animation\obj\Debug\Example 19-5 -- More animation.exe
+C:\Users\Brian\AppData\Local\Temporary Projects\Example 19-5 -- More animation\obj\Debug\Example 19-5 -- More animation.pdb
+C:\Users\Brian\Documents\Visual Studio 2008\Projects\Chapter 19\Example 19-5 -- More animation\Example 19-5 -- More animation\obj\Debug\Example 19-5 -- More animation.exe
+C:\Users\Brian\Documents\Visual Studio 2008\Projects\Chapter 19\Example 19-5 -- More animation\Example 19-5 -- More animation\obj\Debug\Example 19-5 -- More animation.pdb
+C:\Users\Brian\Documents\Visual Studio 2008\Projects\Chapter 19\Example 19-5 -- More animation\Example 19-5 -- More animation\bin\Debug\Example 19-5 -- More animation.exe
+C:\Users\Brian\Documents\Visual Studio 2008\Projects\Chapter 19\Example 19-5 -- More animation\Example 19-5 -- More animation\bin\Debug\Example 19-5 -- More animation.pdb
+C:\Users\Brian\Documents\Visual Studio 2008\Projects\Chapter 19\Example 19-5 -- More animation\Example 19-5 -- More animation\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Brian\Documents\Visual Studio 2008\Projects\Chapter 19\Example 19-5 -- More animation\Example 19-5 -- More animation\obj\Debug\Window1.baml
+C:\Users\Brian\Documents\Visual Studio 2008\Projects\Chapter 19\Example 19-5 -- More animation\Example 19-5 -- More animation\obj\Debug\Window1.g.cs
+C:\Users\Brian\Documents\Visual Studio 2008\Projects\Chapter 19\Example 19-5 -- More animation\Example 19-5 -- More animation\obj\Debug\App.g.cs
+C:\Users\Brian\Documents\Visual Studio 2008\Projects\Chapter 19\Example 19-5 -- More animation\Example 19-5 -- More animation\obj\Debug\Example 19-5 -- More animation_MarkupCompile.cache
+C:\Users\Brian\Documents\Visual Studio 2008\Projects\Chapter 19\Example 19-5 -- More animation\Example 19-5 -- More animation\obj\Debug\Example 19-5 -- More animation.g.resources
+C:\Users\Brian\Documents\Visual Studio 2008\Projects\Chapter 19\Example 19-5 -- More animation\Example 19-5 -- More animation\obj\Debug\Example_19_5____More_animation.Properties.Resources.resources
+C:\Users\Brian\Documents\Visual Studio 2008\Projects\Chapter 19\Example 19-5 -- More animation\Example 19-5 -- More animation\obj\Debug\Example 19-5 -- More animation.csproj.GenerateResource.Cache
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 19\Example 19-5 -- More animation\Example 19-5 -- More animation\obj\Debug\Example 19-5 -- More animation.exe
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 19\Example 19-5 -- More animation\Example 19-5 -- More animation\obj\Debug\Example 19-5 -- More animation.pdb
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 19\Example 19-5 -- More animation\Example 19-5 -- More animation\bin\Debug\Example 19-5 -- More animation.exe
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 19\Example 19-5 -- More animation\Example 19-5 -- More animation\bin\Debug\Example 19-5 -- More animation.pdb
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 19\Example 19-5 -- More animation\Example 19-5 -- More animation\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 19\Example 19-5 -- More animation\Example 19-5 -- More animation\obj\Debug\Window1.baml
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 19\Example 19-5 -- More animation\Example 19-5 -- More animation\obj\Debug\Window1.g.cs
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 19\Example 19-5 -- More animation\Example 19-5 -- More animation\obj\Debug\App.g.cs
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 19\Example 19-5 -- More animation\Example 19-5 -- More animation\obj\Debug\Example 19-5 -- More animation_MarkupCompile.cache
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 19\Example 19-5 -- More animation\Example 19-5 -- More animation\obj\Debug\Example 19-5 -- More animation.g.resources
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 19\Example 19-5 -- More animation\Example 19-5 -- More animation\obj\Debug\Example_19_5____More_animation.Properties.Resources.resources
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 19\Example 19-5 -- More animation\Example 19-5 -- More animation\obj\Debug\Example 19-5 -- More animation.csproj.GenerateResource.Cache

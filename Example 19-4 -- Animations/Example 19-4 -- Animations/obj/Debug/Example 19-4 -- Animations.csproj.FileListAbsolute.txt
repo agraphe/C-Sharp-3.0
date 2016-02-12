@@ -1,0 +1,24 @@
+C:\Users\Brian\Documents\Visual Studio 2008\Projects\Chapter 19\Example 19-4 -- Animations\Example 19-4 -- Animations\bin\Debug\Example 19-4 -- Animations.exe
+C:\Users\Brian\Documents\Visual Studio 2008\Projects\Chapter 19\Example 19-4 -- Animations\Example 19-4 -- Animations\bin\Debug\Example 19-4 -- Animations.pdb
+C:\Users\Brian\Documents\Visual Studio 2008\Projects\Chapter 19\Example 19-4 -- Animations\Example 19-4 -- Animations\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Brian\Documents\Visual Studio 2008\Projects\Chapter 19\Example 19-4 -- Animations\Example 19-4 -- Animations\obj\Debug\Window1.baml
+C:\Users\Brian\Documents\Visual Studio 2008\Projects\Chapter 19\Example 19-4 -- Animations\Example 19-4 -- Animations\obj\Debug\Window1.g.cs
+C:\Users\Brian\Documents\Visual Studio 2008\Projects\Chapter 19\Example 19-4 -- Animations\Example 19-4 -- Animations\obj\Debug\App.g.cs
+C:\Users\Brian\Documents\Visual Studio 2008\Projects\Chapter 19\Example 19-4 -- Animations\Example 19-4 -- Animations\obj\Debug\Example 19-4 -- Animations_MarkupCompile.cache
+C:\Users\Brian\Documents\Visual Studio 2008\Projects\Chapter 19\Example 19-4 -- Animations\Example 19-4 -- Animations\obj\Debug\Example 19-4 -- Animations.g.resources
+C:\Users\Brian\Documents\Visual Studio 2008\Projects\Chapter 19\Example 19-4 -- Animations\Example 19-4 -- Animations\obj\Debug\Example_19_4____Animations.Properties.Resources.resources
+C:\Users\Brian\Documents\Visual Studio 2008\Projects\Chapter 19\Example 19-4 -- Animations\Example 19-4 -- Animations\obj\Debug\Example 19-4 -- Animations.csproj.GenerateResource.Cache
+C:\Users\Brian\Documents\Visual Studio 2008\Projects\Chapter 19\Example 19-4 -- Animations\Example 19-4 -- Animations\obj\Debug\Example 19-4 -- Animations.exe
+C:\Users\Brian\Documents\Visual Studio 2008\Projects\Chapter 19\Example 19-4 -- Animations\Example 19-4 -- Animations\obj\Debug\Example 19-4 -- Animations.pdb
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 19\Example 19-4 -- Animations\Example 19-4 -- Animations\obj\Debug\Example 19-4 -- Animations.exe
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 19\Example 19-4 -- Animations\Example 19-4 -- Animations\obj\Debug\Example 19-4 -- Animations.pdb
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 19\Example 19-4 -- Animations\Example 19-4 -- Animations\bin\Debug\Example 19-4 -- Animations.exe
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 19\Example 19-4 -- Animations\Example 19-4 -- Animations\bin\Debug\Example 19-4 -- Animations.pdb
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 19\Example 19-4 -- Animations\Example 19-4 -- Animations\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 19\Example 19-4 -- Animations\Example 19-4 -- Animations\obj\Debug\Window1.baml
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 19\Example 19-4 -- Animations\Example 19-4 -- Animations\obj\Debug\Window1.g.cs
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 19\Example 19-4 -- Animations\Example 19-4 -- Animations\obj\Debug\App.g.cs
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 19\Example 19-4 -- Animations\Example 19-4 -- Animations\obj\Debug\Example 19-4 -- Animations_MarkupCompile.cache
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 19\Example 19-4 -- Animations\Example 19-4 -- Animations\obj\Debug\Example 19-4 -- Animations.g.resources
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 19\Example 19-4 -- Animations\Example 19-4 -- Animations\obj\Debug\Example_19_4____Animations.Properties.Resources.resources
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 19\Example 19-4 -- Animations\Example 19-4 -- Animations\obj\Debug\Example 19-4 -- Animations.csproj.GenerateResource.Cache

@@ -1,0 +1,5 @@
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 21\Exercise 21-1\Exercise 21-1\bin\Debug\Exercise 21-1.exe
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 21\Exercise 21-1\Exercise 21-1\bin\Debug\Exercise 21-1.pdb
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 21\Exercise 21-1\Exercise 21-1\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 21\Exercise 21-1\Exercise 21-1\obj\Debug\Exercise 21-1.exe
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 21\Exercise 21-1\Exercise 21-1\obj\Debug\Exercise 21-1.pdb

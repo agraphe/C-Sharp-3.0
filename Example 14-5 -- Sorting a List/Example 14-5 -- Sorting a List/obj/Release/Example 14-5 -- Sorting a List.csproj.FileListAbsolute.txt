@@ -1,0 +1,15 @@
+C:\Users\Brian\AppData\Local\Temporary Projects\Example 14-5 -- Sorting a List\bin\Release\Example 14-5 -- Sorting a List.exe
+C:\Users\Brian\AppData\Local\Temporary Projects\Example 14-5 -- Sorting a List\bin\Release\Example 14-5 -- Sorting a List.pdb
+C:\Users\Brian\AppData\Local\Temporary Projects\Example 14-5 -- Sorting a List\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Brian\AppData\Local\Temporary Projects\Example 14-5 -- Sorting a List\obj\Release\Example 14-5 -- Sorting a List.exe
+C:\Users\Brian\AppData\Local\Temporary Projects\Example 14-5 -- Sorting a List\obj\Release\Example 14-5 -- Sorting a List.pdb
+C:\Users\Brian\Documents\Visual Studio 2008\Projects\Chapter 14\Example 14-5 -- Sorting a List\Example 14-5 -- Sorting a List\obj\Release\Example 14-5 -- Sorting a List.exe
+C:\Users\Brian\Documents\Visual Studio 2008\Projects\Chapter 14\Example 14-5 -- Sorting a List\Example 14-5 -- Sorting a List\obj\Release\Example 14-5 -- Sorting a List.pdb
+C:\Users\Brian\Documents\Visual Studio 2008\Projects\Chapter 14\Example 14-5 -- Sorting a List\Example 14-5 -- Sorting a List\bin\Release\Example 14-5 -- Sorting a List.exe
+C:\Users\Brian\Documents\Visual Studio 2008\Projects\Chapter 14\Example 14-5 -- Sorting a List\Example 14-5 -- Sorting a List\bin\Release\Example 14-5 -- Sorting a List.pdb
+C:\Users\Brian\Documents\Visual Studio 2008\Projects\Chapter 14\Example 14-5 -- Sorting a List\Example 14-5 -- Sorting a List\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 14\Example 14-5 -- Sorting a List\Example 14-5 -- Sorting a List\obj\Release\Example 14-5 -- Sorting a List.exe
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 14\Example 14-5 -- Sorting a List\Example 14-5 -- Sorting a List\obj\Release\Example 14-5 -- Sorting a List.pdb
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 14\Example 14-5 -- Sorting a List\Example 14-5 -- Sorting a List\bin\Release\Example 14-5 -- Sorting a List.exe
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 14\Example 14-5 -- Sorting a List\Example 14-5 -- Sorting a List\bin\Release\Example 14-5 -- Sorting a List.pdb
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 14\Example 14-5 -- Sorting a List\Example 14-5 -- Sorting a List\obj\Release\ResolveAssemblyReference.cache

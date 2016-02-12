@@ -1,0 +1,7 @@
+C:\Users\Brian\AppData\Local\Temporary Projects\Exercise 20-1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Brian\AppData\Local\Temporary Projects\Exercise 20-1\bin\Debug\Exercise 20-1.exe
+C:\Users\Brian\AppData\Local\Temporary Projects\Exercise 20-1\bin\Debug\Exercise 20-1.pdb
+C:\Users\Brian\AppData\Local\Temporary Projects\Exercise 20-1\obj\Debug\Exercise 20-1.exe
+C:\Users\Brian\AppData\Local\Temporary Projects\Exercise 20-1\obj\Debug\Exercise 20-1.pdb
+C:\Users\Brian\Documents\Visual Studio 2008\Projects\Exercise 20-1\Exercise 20-1\obj\Debug\Exercise 20-1.exe
+C:\Users\Brian\Documents\Visual Studio 2008\Projects\Exercise 20-1\Exercise 20-1\obj\Debug\Exercise 20-1.pdb

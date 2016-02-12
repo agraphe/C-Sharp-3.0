@@ -1,0 +1,12 @@
+C:\Users\Brian\AppData\Local\Temporary Projects\Example 3-5 -- Enumerations\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Brian\AppData\Local\Temporary Projects\Example 3-5 -- Enumerations\bin\Release\Example 3-5 -- Enumerations.exe
+C:\Users\Brian\AppData\Local\Temporary Projects\Example 3-5 -- Enumerations\bin\Release\Example 3-5 -- Enumerations.pdb
+C:\Users\Brian\AppData\Local\Temporary Projects\Example 3-5 -- Enumerations\obj\Release\Example 3-5 -- Enumerations.exe
+C:\Users\Brian\AppData\Local\Temporary Projects\Example 3-5 -- Enumerations\obj\Release\Example 3-5 -- Enumerations.pdb
+C:\Users\Brian\Documents\Visual Studio 2008\Projects\Example 3-5 -- Enumerations\Example 3-5 -- Enumerations\obj\Release\Example 3-5 -- Enumerations.exe
+C:\Users\Brian\Documents\Visual Studio 2008\Projects\Example 3-5 -- Enumerations\Example 3-5 -- Enumerations\obj\Release\Example 3-5 -- Enumerations.pdb
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 3\Example 3-5 -- Enumerations\Example 3-5 -- Enumerations\obj\Release\Example 3-5 -- Enumerations.exe
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 3\Example 3-5 -- Enumerations\Example 3-5 -- Enumerations\obj\Release\Example 3-5 -- Enumerations.pdb
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 3\Example 3-5 -- Enumerations\Example 3-5 -- Enumerations\bin\Release\Example 3-5 -- Enumerations.exe
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 3\Example 3-5 -- Enumerations\Example 3-5 -- Enumerations\bin\Release\Example 3-5 -- Enumerations.pdb
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 3\Example 3-5 -- Enumerations\Example 3-5 -- Enumerations\obj\Release\ResolveAssemblyReference.cache

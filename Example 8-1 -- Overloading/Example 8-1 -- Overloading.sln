@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C# Express 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example 8-1 -- Overloading", "Example 8-1 -- Overloading\Example 8-1 -- Overloading.csproj", "{5C4D833C-1D5E-4F42-816D-17650C0BD918}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5C4D833C-1D5E-4F42-816D-17650C0BD918}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C4D833C-1D5E-4F42-816D-17650C0BD918}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C4D833C-1D5E-4F42-816D-17650C0BD918}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C4D833C-1D5E-4F42-816D-17650C0BD918}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,7 @@
+C:\Users\Brian\AppData\Local\Temporary Projects\Example 5-18 -- for Loop Without Initialization\bin\Release\Example 5-18 -- for Loop Without Initialization.exe
+C:\Users\Brian\AppData\Local\Temporary Projects\Example 5-18 -- for Loop Without Initialization\bin\Release\Example 5-18 -- for Loop Without Initialization.pdb
+C:\Users\Brian\AppData\Local\Temporary Projects\Example 5-18 -- for Loop Without Initialization\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Brian\AppData\Local\Temporary Projects\Example 5-18 -- for Loop Without Initialization\obj\Release\Example 5-18 -- for Loop Without Initialization.exe
+C:\Users\Brian\AppData\Local\Temporary Projects\Example 5-18 -- for Loop Without Initialization\obj\Release\Example 5-18 -- for Loop Without Initialization.pdb
+C:\Users\Brian\Documents\Visual Studio 2008\Projects\Example 5-18 -- for Loop Without Initialization\Example 5-18 -- for Loop Without Initialization\obj\Release\Example 5-18 -- for Loop Without Initialization.exe
+C:\Users\Brian\Documents\Visual Studio 2008\Projects\Example 5-18 -- for Loop Without Initialization\Example 5-18 -- for Loop Without Initialization\obj\Release\Example 5-18 -- for Loop Without Initialization.pdb

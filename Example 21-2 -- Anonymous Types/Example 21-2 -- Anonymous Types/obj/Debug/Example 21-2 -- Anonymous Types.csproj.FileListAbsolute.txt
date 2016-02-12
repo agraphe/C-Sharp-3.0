@@ -1,0 +1,9 @@
+C:\Users\Brian\AppData\Local\Temporary Projects\Example 21-2 -- Anonymous Types\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Brian\AppData\Local\Temporary Projects\Example 21-2 -- Anonymous Types\bin\Debug\Example 21-2 -- Anonymous Types.exe
+C:\Users\Brian\AppData\Local\Temporary Projects\Example 21-2 -- Anonymous Types\bin\Debug\Example 21-2 -- Anonymous Types.pdb
+C:\Users\Brian\AppData\Local\Temporary Projects\Example 21-2 -- Anonymous Types\obj\Debug\Example 21-2 -- Anonymous Types.exe
+C:\Users\Brian\AppData\Local\Temporary Projects\Example 21-2 -- Anonymous Types\obj\Debug\Example 21-2 -- Anonymous Types.pdb
+C:\Users\Brian\Documents\Visual Studio 2008\Projects\Chapter 21\Example 21-2 -- Anonymous Types\Example 21-2 -- Anonymous Types\obj\Debug\Example 21-2 -- Anonymous Types.exe
+C:\Users\Brian\Documents\Visual Studio 2008\Projects\Chapter 21\Example 21-2 -- Anonymous Types\Example 21-2 -- Anonymous Types\obj\Debug\Example 21-2 -- Anonymous Types.pdb
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 21\Example 21-2 -- Anonymous Types\Example 21-2 -- Anonymous Types\obj\Debug\Example 21-2 -- Anonymous Types.exe
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 21\Example 21-2 -- Anonymous Types\Example 21-2 -- Anonymous Types\obj\Debug\Example 21-2 -- Anonymous Types.pdb

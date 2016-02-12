@@ -1,0 +1,10 @@
+C:\Users\Brian\AppData\Local\Temporary Projects\Example 16-4 -- Dedicated catch Statements\bin\Release\Example 16-4 -- Dedicated catch Statements.exe
+C:\Users\Brian\AppData\Local\Temporary Projects\Example 16-4 -- Dedicated catch Statements\bin\Release\Example 16-4 -- Dedicated catch Statements.pdb
+C:\Users\Brian\AppData\Local\Temporary Projects\Example 16-4 -- Dedicated catch Statements\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Brian\AppData\Local\Temporary Projects\Example 16-4 -- Dedicated catch Statements\obj\Release\Example 16-4 -- Dedicated catch Statements.exe
+C:\Users\Brian\AppData\Local\Temporary Projects\Example 16-4 -- Dedicated catch Statements\obj\Release\Example 16-4 -- Dedicated catch Statements.pdb
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 16\Example 16-4 -- Dedicated catch Statements\Example 16-4 -- Dedicated catch Statements\obj\Release\Example 16-4 -- Dedicated catch Statements.exe
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 16\Example 16-4 -- Dedicated catch Statements\Example 16-4 -- Dedicated catch Statements\obj\Release\Example 16-4 -- Dedicated catch Statements.pdb
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 16\Example 16-4 -- Dedicated catch Statements\Example 16-4 -- Dedicated catch Statements\bin\Release\Example 16-4 -- Dedicated catch Statements.exe
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 16\Example 16-4 -- Dedicated catch Statements\Example 16-4 -- Dedicated catch Statements\bin\Release\Example 16-4 -- Dedicated catch Statements.pdb
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 16\Example 16-4 -- Dedicated catch Statements\Example 16-4 -- Dedicated catch Statements\obj\Release\ResolveAssemblyReference.cache

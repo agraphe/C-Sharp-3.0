@@ -1,0 +1,9 @@
+C:\Users\Brian\AppData\Local\Temporary Projects\Example 3-4 -- Symbolic Constants\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Brian\Documents\Visual Studio 2008\Projects\Example 3-4 -- Symbolic Constants\Example 3-4 -- Symbolic Constants\bin\Release\Example 3-4 -- Symbolic Constants.exe
+C:\Users\Brian\Documents\Visual Studio 2008\Projects\Example 3-4 -- Symbolic Constants\Example 3-4 -- Symbolic Constants\bin\Release\Example 3-4 -- Symbolic Constants.pdb
+C:\Users\Brian\Documents\Visual Studio 2008\Projects\Example 3-4 -- Symbolic Constants\Example 3-4 -- Symbolic Constants\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Brian\Documents\Visual Studio 2008\Projects\Example 3-4 -- Symbolic Constants\Example 3-4 -- Symbolic Constants\obj\Release\Example 3-4 -- Symbolic Constants.exe
+C:\Users\Brian\Documents\Visual Studio 2008\Projects\Example 3-4 -- Symbolic Constants\Example 3-4 -- Symbolic Constants\obj\Release\Example 3-4 -- Symbolic Constants.pdb
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 3\Example 3-4 -- Symbolic Constants\Example 3-4 -- Symbolic Constants\obj\Release\Example 3-4 -- Symbolic Constants.exe
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 3\Example 3-4 -- Symbolic Constants\Example 3-4 -- Symbolic Constants\obj\Release\Example 3-4 -- Symbolic Constants.pdb
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 3\Example 3-4 -- Symbolic Constants\Example 3-4 -- Symbolic Constants\obj\Release\ResolveAssemblyReference.cache

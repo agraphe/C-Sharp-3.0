@@ -1,0 +1,14 @@
+C:\Users\Brian\AppData\Local\Temporary Projects\Example 15-4 String Equality\bin\Release\Example 15-4 String Equality.exe
+C:\Users\Brian\AppData\Local\Temporary Projects\Example 15-4 String Equality\bin\Release\Example 15-4 String Equality.pdb
+C:\Users\Brian\AppData\Local\Temporary Projects\Example 15-4 String Equality\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Brian\AppData\Local\Temporary Projects\Example 15-4 String Equality\obj\Release\Example 15-4 String Equality.exe
+C:\Users\Brian\AppData\Local\Temporary Projects\Example 15-4 String Equality\obj\Release\Example 15-4 String Equality.pdb
+C:\Users\Brian\Documents\Visual Studio 2008\Projects\Chapter 15\Example 15-4 String Equality\Example 15-4 String Equality\obj\Release\Example 15-4 String Equality.exe
+C:\Users\Brian\Documents\Visual Studio 2008\Projects\Chapter 15\Example 15-4 String Equality\Example 15-4 String Equality\obj\Release\Example 15-4 String Equality.pdb
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 15\Example 15-4 String Equality\Example 15-4 String Equality\obj\Release\Example 15-4 String Equality.exe
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 15\Example 15-4 String Equality\Example 15-4 String Equality\obj\Release\Example 15-4 String Equality.pdb
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 15\Example 15-4 String Equality\Example 15-4 String Equality\bin\Release\Example 15-4 String Equality.exe
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 15\Example 15-4 String Equality\Example 15-4 String Equality\bin\Release\Example 15-4 String Equality.pdb
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 15\Example 15-4 String Equality\Example 15-4 String Equality\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 15\Example 15-4 -- String Equality\Example 15-4 String Equality\obj\Release\Example 15-4 String Equality.exe
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 15\Example 15-4 -- String Equality\Example 15-4 String Equality\obj\Release\Example 15-4 String Equality.pdb

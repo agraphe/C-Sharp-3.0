@@ -1,0 +1,8 @@
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 21\Example 21-7 -- Object Relational Designer\Example 21-7 -- Object Relational Designer\bin\Debug\NORTHWND.MDF
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 21\Example 21-7 -- Object Relational Designer\Example 21-7 -- Object Relational Designer\bin\Debug\NORTHWND_log.ldf
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 21\Example 21-7 -- Object Relational Designer\Example 21-7 -- Object Relational Designer\bin\Debug\Example 21-7 -- Object Relational Designer.exe.config
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 21\Example 21-7 -- Object Relational Designer\Example 21-7 -- Object Relational Designer\bin\Debug\Example 21-7 -- Object Relational Designer.exe
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 21\Example 21-7 -- Object Relational Designer\Example 21-7 -- Object Relational Designer\bin\Debug\Example 21-7 -- Object Relational Designer.pdb
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 21\Example 21-7 -- Object Relational Designer\Example 21-7 -- Object Relational Designer\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 21\Example 21-7 -- Object Relational Designer\Example 21-7 -- Object Relational Designer\obj\Debug\Example 21-7 -- Object Relational Designer.exe
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 21\Example 21-7 -- Object Relational Designer\Example 21-7 -- Object Relational Designer\obj\Debug\Example 21-7 -- Object Relational Designer.pdb

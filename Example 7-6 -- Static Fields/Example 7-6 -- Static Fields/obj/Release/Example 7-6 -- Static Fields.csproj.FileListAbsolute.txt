@@ -1,0 +1,12 @@
+C:\Users\Brian\AppData\Local\Temporary Projects\Example 7-6 -- Static Fields\bin\Release\Example 7-6 -- Static Fields.exe
+C:\Users\Brian\AppData\Local\Temporary Projects\Example 7-6 -- Static Fields\bin\Release\Example 7-6 -- Static Fields.pdb
+C:\Users\Brian\AppData\Local\Temporary Projects\Example 7-6 -- Static Fields\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Brian\AppData\Local\Temporary Projects\Example 7-6 -- Static Fields\obj\Release\Example 7-6 -- Static Fields.exe
+C:\Users\Brian\AppData\Local\Temporary Projects\Example 7-6 -- Static Fields\obj\Release\Example 7-6 -- Static Fields.pdb
+C:\Users\Brian\Documents\Visual Studio 2008\Projects\Chapter 7\Example 7-6 -- Static Fields\Example 7-6 -- Static Fields\obj\Release\Example 7-6 -- Static Fields.exe
+C:\Users\Brian\Documents\Visual Studio 2008\Projects\Chapter 7\Example 7-6 -- Static Fields\Example 7-6 -- Static Fields\obj\Release\Example 7-6 -- Static Fields.pdb
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 7\Example 7-6 -- Static Fields\Example 7-6 -- Static Fields\obj\Release\Example 7-6 -- Static Fields.exe
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 7\Example 7-6 -- Static Fields\Example 7-6 -- Static Fields\obj\Release\Example 7-6 -- Static Fields.pdb
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 7\Example 7-6 -- Static Fields\Example 7-6 -- Static Fields\bin\Release\Example 7-6 -- Static Fields.exe
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 7\Example 7-6 -- Static Fields\Example 7-6 -- Static Fields\bin\Release\Example 7-6 -- Static Fields.pdb
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 7\Example 7-6 -- Static Fields\Example 7-6 -- Static Fields\obj\Release\ResolveAssemblyReference.cache

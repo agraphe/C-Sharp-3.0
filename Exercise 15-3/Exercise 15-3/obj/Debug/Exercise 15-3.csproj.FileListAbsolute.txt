@@ -1,0 +1,5 @@
+C:\Users\Brian\AppData\Local\Temporary Projects\Exercise 15-3\bin\Debug\Exercise 15-3.exe
+C:\Users\Brian\AppData\Local\Temporary Projects\Exercise 15-3\bin\Debug\Exercise 15-3.pdb
+C:\Users\Brian\AppData\Local\Temporary Projects\Exercise 15-3\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Brian\AppData\Local\Temporary Projects\Exercise 15-3\obj\Debug\Exercise 15-3.exe
+C:\Users\Brian\AppData\Local\Temporary Projects\Exercise 15-3\obj\Debug\Exercise 15-3.pdb

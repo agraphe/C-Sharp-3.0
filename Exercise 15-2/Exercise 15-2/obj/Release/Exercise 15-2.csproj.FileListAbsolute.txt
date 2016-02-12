@@ -1,0 +1,15 @@
+C:\Users\Brian\AppData\Local\Temporary Projects\Exercise 15-2\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Brian\AppData\Local\Temporary Projects\Exercise 15-2\bin\Release\Exercise 15-2.exe
+C:\Users\Brian\AppData\Local\Temporary Projects\Exercise 15-2\bin\Release\Exercise 15-2.pdb
+C:\Users\Brian\AppData\Local\Temporary Projects\Exercise 15-2\obj\Release\Exercise 15-2.exe
+C:\Users\Brian\AppData\Local\Temporary Projects\Exercise 15-2\obj\Release\Exercise 15-2.pdb
+C:\Users\Brian\Documents\Visual Studio 2008\Projects\Chapter 15\Exercise 15-2\Exercise 15-2\obj\Release\Exercise 15-2.exe
+C:\Users\Brian\Documents\Visual Studio 2008\Projects\Chapter 15\Exercise 15-2\Exercise 15-2\obj\Release\Exercise 15-2.pdb
+C:\Users\Brian\Documents\Visual Studio 2008\Projects\Chapter 15\Exercise 15-2\Exercise 15-2\bin\Release\Exercise 15-2.exe
+C:\Users\Brian\Documents\Visual Studio 2008\Projects\Chapter 15\Exercise 15-2\Exercise 15-2\bin\Release\Exercise 15-2.pdb
+C:\Users\Brian\Documents\Visual Studio 2008\Projects\Chapter 15\Exercise 15-2\Exercise 15-2\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 15\Exercise 15-2\Exercise 15-2\obj\Release\Exercise 15-2.exe
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 15\Exercise 15-2\Exercise 15-2\obj\Release\Exercise 15-2.pdb
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 15\Exercise 15-2\Exercise 15-2\bin\Release\Exercise 15-2.exe
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 15\Exercise 15-2\Exercise 15-2\bin\Release\Exercise 15-2.pdb
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 15\Exercise 15-2\Exercise 15-2\obj\Release\ResolveAssemblyReference.cache

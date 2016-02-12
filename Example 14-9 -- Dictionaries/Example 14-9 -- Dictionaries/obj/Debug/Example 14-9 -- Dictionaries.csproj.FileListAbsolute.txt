@@ -1,0 +1,5 @@
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 14\Example 14-9 -- Dictionaries\Example 14-9 -- Dictionaries\bin\Debug\Example 14-9 -- Dictionaries.exe
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 14\Example 14-9 -- Dictionaries\Example 14-9 -- Dictionaries\bin\Debug\Example 14-9 -- Dictionaries.pdb
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 14\Example 14-9 -- Dictionaries\Example 14-9 -- Dictionaries\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 14\Example 14-9 -- Dictionaries\Example 14-9 -- Dictionaries\obj\Debug\Example 14-9 -- Dictionaries.exe
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 14\Example 14-9 -- Dictionaries\Example 14-9 -- Dictionaries\obj\Debug\Example 14-9 -- Dictionaries.pdb

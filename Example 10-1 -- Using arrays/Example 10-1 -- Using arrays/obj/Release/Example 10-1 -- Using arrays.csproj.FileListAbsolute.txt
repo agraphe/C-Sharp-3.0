@@ -1,0 +1,10 @@
+C:\Documents and Settings\Brian\Local Settings\Application Data\Temporary Projects\Example 10-1 -- Using arrays\bin\Release\Example 10-1 -- Using arrays.exe
+C:\Documents and Settings\Brian\Local Settings\Application Data\Temporary Projects\Example 10-1 -- Using arrays\bin\Release\Example 10-1 -- Using arrays.pdb
+C:\Documents and Settings\Brian\Local Settings\Application Data\Temporary Projects\Example 10-1 -- Using arrays\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Brian\Local Settings\Application Data\Temporary Projects\Example 10-1 -- Using arrays\obj\Release\Example 10-1 -- Using arrays.exe
+C:\Documents and Settings\Brian\Local Settings\Application Data\Temporary Projects\Example 10-1 -- Using arrays\obj\Release\Example 10-1 -- Using arrays.pdb
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 10\Example 10-1 -- Using arrays\Example 10-1 -- Using arrays\obj\Release\Example 10-1 -- Using arrays.exe
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 10\Example 10-1 -- Using arrays\Example 10-1 -- Using arrays\obj\Release\Example 10-1 -- Using arrays.pdb
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 10\Example 10-1 -- Using arrays\Example 10-1 -- Using arrays\bin\Release\Example 10-1 -- Using arrays.exe
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 10\Example 10-1 -- Using arrays\Example 10-1 -- Using arrays\bin\Release\Example 10-1 -- Using arrays.pdb
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 10\Example 10-1 -- Using arrays\Example 10-1 -- Using arrays\obj\Release\ResolveAssemblyReference.cache

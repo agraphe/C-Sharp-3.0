@@ -1,0 +1,5 @@
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 7\Example 7-2 -- Passing Parameters\Example 7-2 -- Passing Parameters\bin\Release\Example 7-2 -- Passing Parameters.exe
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 7\Example 7-2 -- Passing Parameters\Example 7-2 -- Passing Parameters\bin\Release\Example 7-2 -- Passing Parameters.pdb
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 7\Example 7-2 -- Passing Parameters\Example 7-2 -- Passing Parameters\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 7\Example 7-2 -- Passing Parameters\Example 7-2 -- Passing Parameters\obj\Release\Example 7-2 -- Passing Parameters.exe
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 7\Example 7-2 -- Passing Parameters\Example 7-2 -- Passing Parameters\obj\Release\Example 7-2 -- Passing Parameters.pdb

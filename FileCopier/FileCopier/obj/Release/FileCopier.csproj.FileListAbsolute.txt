@@ -1,0 +1,8 @@
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 18\FileCopier\FileCopier\bin\Release\FileCopier.exe
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 18\FileCopier\FileCopier\bin\Release\FileCopier.pdb
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 18\FileCopier\FileCopier\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 18\FileCopier\FileCopier\obj\Release\FileCopier.FrmFileCopier.resources
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 18\FileCopier\FileCopier\obj\Release\FileCopier.Properties.Resources.resources
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 18\FileCopier\FileCopier\obj\Release\FileCopier.csproj.GenerateResource.Cache
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 18\FileCopier\FileCopier\obj\Release\FileCopier.exe
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 18\FileCopier\FileCopier\obj\Release\FileCopier.pdb

@@ -1,0 +1,10 @@
+C:\Users\Brian\AppData\Local\Temporary Projects\Example 17-1 -- Using Delegates\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Brian\AppData\Local\Temporary Projects\Example 17-1 -- Using Delegates\bin\Debug\Example 17-1 -- Using Delegates.exe
+C:\Users\Brian\AppData\Local\Temporary Projects\Example 17-1 -- Using Delegates\bin\Debug\Example 17-1 -- Using Delegates.pdb
+C:\Users\Brian\AppData\Local\Temporary Projects\Example 17-1 -- Using Delegates\obj\Debug\Example 17-1 -- Using Delegates.exe
+C:\Users\Brian\AppData\Local\Temporary Projects\Example 17-1 -- Using Delegates\obj\Debug\Example 17-1 -- Using Delegates.pdb
+C:\Users\Brian\Documents\Visual Studio 2008\Projects\Chapter 17\Example 17-1 -- Using Delegates\Example 17-1 -- Using Delegates\bin\Debug\Example 17-1 -- Using Delegates.exe
+C:\Users\Brian\Documents\Visual Studio 2008\Projects\Chapter 17\Example 17-1 -- Using Delegates\Example 17-1 -- Using Delegates\bin\Debug\Example 17-1 -- Using Delegates.pdb
+C:\Users\Brian\Documents\Visual Studio 2008\Projects\Chapter 17\Example 17-1 -- Using Delegates\Example 17-1 -- Using Delegates\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Brian\Documents\Visual Studio 2008\Projects\Chapter 17\Example 17-1 -- Using Delegates\Example 17-1 -- Using Delegates\obj\Debug\Example 17-1 -- Using Delegates.exe
+C:\Users\Brian\Documents\Visual Studio 2008\Projects\Chapter 17\Example 17-1 -- Using Delegates\Example 17-1 -- Using Delegates\obj\Debug\Example 17-1 -- Using Delegates.pdb

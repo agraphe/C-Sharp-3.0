@@ -1,0 +1,12 @@
+C:\Users\Brian\AppData\Local\Temporary Projects\Example 12-2 -- Overloading Equality\bin\Release\Example 12-2 -- Overloading Equality.exe
+C:\Users\Brian\AppData\Local\Temporary Projects\Example 12-2 -- Overloading Equality\bin\Release\Example 12-2 -- Overloading Equality.pdb
+C:\Users\Brian\AppData\Local\Temporary Projects\Example 12-2 -- Overloading Equality\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Brian\AppData\Local\Temporary Projects\Example 12-2 -- Overloading Equality\obj\Release\Example 12-2 -- Overloading Equality.exe
+C:\Users\Brian\AppData\Local\Temporary Projects\Example 12-2 -- Overloading Equality\obj\Release\Example 12-2 -- Overloading Equality.pdb
+C:\Users\Brian\Documents\Visual Studio 2008\Projects\Chapter 12\Example 12-2 -- Overloading Equality\Example 12-2 -- Overloading Equality\obj\Release\Example 12-2 -- Overloading Equality.exe
+C:\Users\Brian\Documents\Visual Studio 2008\Projects\Chapter 12\Example 12-2 -- Overloading Equality\Example 12-2 -- Overloading Equality\obj\Release\Example 12-2 -- Overloading Equality.pdb
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 12\Example 12-2 -- Overloading Equality\Example 12-2 -- Overloading Equality\obj\Release\Example 12-2 -- Overloading Equality.exe
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 12\Example 12-2 -- Overloading Equality\Example 12-2 -- Overloading Equality\obj\Release\Example 12-2 -- Overloading Equality.pdb
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 12\Example 12-2 -- Overloading Equality\Example 12-2 -- Overloading Equality\bin\Release\Example 12-2 -- Overloading Equality.exe
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 12\Example 12-2 -- Overloading Equality\Example 12-2 -- Overloading Equality\bin\Release\Example 12-2 -- Overloading Equality.pdb
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 12\Example 12-2 -- Overloading Equality\Example 12-2 -- Overloading Equality\obj\Release\ResolveAssemblyReference.cache

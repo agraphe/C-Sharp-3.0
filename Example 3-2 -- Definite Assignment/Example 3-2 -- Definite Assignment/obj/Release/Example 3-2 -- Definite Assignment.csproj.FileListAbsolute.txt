@@ -1,0 +1,2 @@
+C:\Users\Brian\AppData\Local\Temporary Projects\Example 3-2 -- Definite Assignment\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 3\Example 3-2 -- Definite Assignment\Example 3-2 -- Definite Assignment\obj\Release\ResolveAssemblyReference.cache

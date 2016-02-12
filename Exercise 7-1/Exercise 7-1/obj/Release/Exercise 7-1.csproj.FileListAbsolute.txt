@@ -1,0 +1,10 @@
+C:\Users\Brian\Documents\Visual Studio 2008\Projects\Chapter 7\Exercise 7-1\Exercise 7-1\bin\Release\Exercise 7-1.exe
+C:\Users\Brian\Documents\Visual Studio 2008\Projects\Chapter 7\Exercise 7-1\Exercise 7-1\bin\Release\Exercise 7-1.pdb
+C:\Users\Brian\Documents\Visual Studio 2008\Projects\Chapter 7\Exercise 7-1\Exercise 7-1\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Brian\Documents\Visual Studio 2008\Projects\Chapter 7\Exercise 7-1\Exercise 7-1\obj\Release\Exercise 7-1.exe
+C:\Users\Brian\Documents\Visual Studio 2008\Projects\Chapter 7\Exercise 7-1\Exercise 7-1\obj\Release\Exercise 7-1.pdb
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 7\Exercise 7-1\Exercise 7-1\obj\Release\Exercise 7-1.exe
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 7\Exercise 7-1\Exercise 7-1\obj\Release\Exercise 7-1.pdb
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 7\Exercise 7-1\Exercise 7-1\bin\Release\Exercise 7-1.exe
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 7\Exercise 7-1\Exercise 7-1\bin\Release\Exercise 7-1.pdb
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 7\Exercise 7-1\Exercise 7-1\obj\Release\ResolveAssemblyReference.cache

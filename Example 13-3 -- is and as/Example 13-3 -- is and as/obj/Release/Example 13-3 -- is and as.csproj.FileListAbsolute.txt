@@ -1,0 +1,10 @@
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 13\Example 13-3 -- is and as\Example 13-3 -- is and as\bin\Release\Example 13-3 -- is and as.exe
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 13\Example 13-3 -- is and as\Example 13-3 -- is and as\bin\Release\Example 13-3 -- is and as.pdb
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 13\Example 13-3 -- is and as\Example 13-3 -- is and as\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 13\Example 13-3 -- is and as\Example 13-3 -- is and as\obj\Release\Example 13-3 -- is and as.exe
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 13\Example 13-3 -- is and as\Example 13-3 -- is and as\obj\Release\Example 13-3 -- is and as.pdb
+C:\dev\_git\Learning-C#_3.0_MF\Example 13-3 -- is and as\Example 13-3 -- is and as\obj\Release\Example 13-3 -- is and as.exe
+C:\dev\_git\Learning-C#_3.0_MF\Example 13-3 -- is and as\Example 13-3 -- is and as\obj\Release\Example 13-3 -- is and as.pdb
+C:\dev\_git\Learning-C#_3.0_MF\Example 13-3 -- is and as\Example 13-3 -- is and as\bin\Release\Example 13-3 -- is and as.exe
+C:\dev\_git\Learning-C#_3.0_MF\Example 13-3 -- is and as\Example 13-3 -- is and as\bin\Release\Example 13-3 -- is and as.pdb
+C:\dev\_git\Learning-C#_3.0_MF\Example 13-3 -- is and as\Example 13-3 -- is and as\obj\Release\Example 13-3 -- is and as.csprojResolveAssemblyReference.cache

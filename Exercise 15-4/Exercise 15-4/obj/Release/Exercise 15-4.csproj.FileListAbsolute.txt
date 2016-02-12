@@ -1,0 +1,5 @@
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 15\Exercise 15-4\Exercise 15-4\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 15\Exercise 15-4\Exercise 15-4\bin\Release\Exercise 15-4.exe
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 15\Exercise 15-4\Exercise 15-4\bin\Release\Exercise 15-4.pdb
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 15\Exercise 15-4\Exercise 15-4\obj\Release\Exercise 15-4.exe
+C:\Documents and Settings\Brian\My Documents\O'Reilly\LCS 3\8 code\Chapter 15\Exercise 15-4\Exercise 15-4\obj\Release\Exercise 15-4.pdb
